@@ -1,10 +1,8 @@
 # Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 
-# Virtual environment
+# Virtual environments
 venv/
 env/
 .venv/
@@ -12,24 +10,19 @@ env/
 # VS Code
 .vscode/
 
-# Jupyter
-.ipynb_checkpoints/
-
 # OS files
 .DS_Store
 Thumbs.db
 
-# Model files
-models/*.pkl
-models/*.joblib
-
-# Training outputs
-models/*.png
-models/*.csv
-
-# Large datasets
+# Ignore ALL datasets
 data/raw/*.csv
 data/processed/*.csv
+
+# Ignore model files
+models/*.pkl
+models/*.joblib
+models/*.png
+models/*.csv
 
 # Cache
 data/raw/cache/
@@ -37,5 +30,5 @@ data/raw/cache/
 # Logs
 *.log
 
-# Environment variables
+# Secrets
 .env
