@@ -1,0 +1,34 @@
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Local/editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated live fetch cache
+data/processed/live/
+
+# Generated training reports
+models/model_comparison.csv
+models/model_results.png
+models/threshold_analysis.csv
+
+# Large/rebuildable raw downloads
+data/raw/cache/
+data/raw/pakistan_rainfall_2010_2022.csv
+data/raw/gadm41_PAK_*.shp
+data/raw/gadm41_PAK_*.shx
+data/raw/gadm41_PAK_*.dbf
+data/raw/gadm41_PAK_*.prj
+data/raw/gadm41_PAK_*.cpg
+
+# Optional notebook/report outputs
+notebooks/.ipynb_checkpoints/
