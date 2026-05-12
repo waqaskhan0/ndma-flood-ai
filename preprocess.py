@@ -153,14 +153,72 @@ df["province_code"] = df["province"].map(province_map)
 
 # Key composite feature: rain intensity + proximity / elevation
 df["flood_intensity_score"] = (
-    df["monsoon_total_mm"] *
-    (df["river_proximity"] + 1) /
-    (df["elevation_m"] + 1)
+    (
+        df["monsoon_total_mm"] * 0.6
+        + df["annual_max_daily"] * 2
+        + df["monsoon_rainy_days"] * 1.5
+    )
+    *
+    (df["river_proximity"] + 1)
+    *
+    df["geo_risk_code"]
+    /
+    np.sqrt(df["elevation_m"] + 1)
 ).round(4)
 
 df.fillna(0, inplace=True)
 float_cols = df.select_dtypes(include="float64").columns
 df[float_cols] = df[float_cols].round(4)
+
+# ─────────────────────────────────────────────────
+# FLOOD INTENSITY CATEGORY
+# ─────────────────────────────────────────────────
+
+def classify_intensity(score):
+
+    if score < 15:
+        return "very_low"
+
+    elif score < 50:
+        return "low"
+
+    elif score < 100:
+        return "moderate"
+
+    elif score < 250:
+        return "high"
+
+    elif score < 500:
+        return "very_high"
+
+    else:
+        return "extreme"
+
+
+# Create category column
+df["flood_intensity_category"] = (
+    df["flood_intensity_score"]
+    .apply(classify_intensity)
+)
+
+# Optional numeric encoding
+intensity_map = {
+    "very_low": 1,
+    "low": 2,
+    "moderate": 3,
+    "high": 4,
+    "very_high": 5,
+    "extreme": 6
+}
+
+df["flood_intensity_code"] = (
+    df["flood_intensity_category"]
+    .map(intensity_map)
+)
+
+# Show distribution
+print("\nFlood Intensity Distribution:")
+print(df["flood_intensity_category"].value_counts())
 
 df.to_csv("data/processed/flood_features.csv", index=False)
 

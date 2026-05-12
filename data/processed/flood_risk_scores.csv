@@ -1,0 +1,2042 @@
+district,province,year,flooded,risk_score
+Lahore,Punjab,2010,0,0.11239663
+Multan,Punjab,2010,1,0.8754942
+Faisalabad,Punjab,2010,0,0.0044613136
+Rawalpindi,Punjab,2010,0,0.0033459712
+Gujranwala,Punjab,2010,0,0.12959372
+Sialkot,Punjab,2010,0,0.077735305
+Bahawalpur,Punjab,2010,1,0.8368366
+Rahim Yar Khan,Punjab,2010,1,0.98734784
+DG Khan,Punjab,2010,1,0.86613184
+Muzaffargarh,Punjab,2010,1,0.96609795
+Gujrat,Punjab,2010,0,0.077735305
+Sheikhupura,Punjab,2010,0,0.16156496
+Sargodha,Punjab,2010,0,0.0132212415
+Jhang,Punjab,2010,1,0.82833344
+Kasur,Punjab,2010,0,0.010316355
+Okara,Punjab,2010,0,0.0038573237
+Sahiwal,Punjab,2010,0,0.004823256
+Pakpattan,Punjab,2010,0,0.009849773
+Bahawalnagar,Punjab,2010,0,0.11822494
+Vehari,Punjab,2010,1,0.37916484
+Lodhran,Punjab,2010,1,0.83189857
+Khanewal,Punjab,2010,1,0.39788765
+Chiniot,Punjab,2010,0,0.006200719
+Hafizabad,Punjab,2010,0,0.079925224
+Narowal,Punjab,2010,0,0.05608277
+Nankana Sahib,Punjab,2010,0,0.0055937883
+Mandi Bahauddin,Punjab,2010,0,0.008347829
+Attock,Punjab,2010,0,0.00917517
+Chakwal,Punjab,2010,0,0.0026878663
+Jhelum,Punjab,2010,0,0.0066829678
+Khushab,Punjab,2010,0,0.008353329
+Bhakkar,Punjab,2010,1,0.93626535
+Layyah,Punjab,2010,1,0.94343853
+Toba Tek Singh,Punjab,2010,0,0.0056644236
+Dera Ghazi Khan,Punjab,2010,1,0.86613184
+Karachi Central,Sindh,2010,0,0.23844919
+Karachi East,Sindh,2010,0,0.071588755
+Karachi West,Sindh,2010,0,0.23844919
+Karachi South,Sindh,2010,0,0.09248351
+Malir,Sindh,2010,0,0.2633367
+Hyderabad,Sindh,2010,1,0.8994369
+Sukkur,Sindh,2010,1,0.98470056
+Larkana,Sindh,2010,1,0.96863157
+Thatta,Sindh,2010,1,0.84242857
+Dadu,Sindh,2010,1,0.985601
+Jacobabad,Sindh,2010,1,0.9681493
+Kashmore,Sindh,2010,1,0.9878647
+Kamber,Sindh,2010,1,0.9658563
+Shikarpur,Sindh,2010,1,0.8142894
+Mirpur Khas,Sindh,2010,1,0.8827586
+Sanghar,Sindh,2010,1,0.9680608
+Nawabshah,Sindh,2010,1,0.9877216
+Naushahro Feroze,Sindh,2010,1,0.89280355
+Khairpur,Sindh,2010,1,0.97860557
+Ghotki,Sindh,2010,1,0.98168874
+Badin,Sindh,2010,0,0.43474016
+Tharparkar,Sindh,2010,0,0.17359848
+Umerkot,Sindh,2010,0,0.13851595
+Matiari,Sindh,2010,1,0.9118707
+Jamshoro,Sindh,2010,1,0.8911835
+Sujawal,Sindh,2010,0,0.5015872
+Tando Allahyar,Sindh,2010,0,0.6197221
+Tando Muhammad Khan,Sindh,2010,0,0.4255745
+Qambar Shahdadkot,Sindh,2010,1,0.94415706
+Peshawar,KPK,2010,0,0.2671576
+Swat,KPK,2010,1,0.98480135
+Nowshera,KPK,2010,1,0.9314198
+Charsadda,KPK,2010,1,0.8608089
+Dir Upper,KPK,2010,1,0.98202527
+Dir Lower,KPK,2010,1,0.97881943
+Chitral,KPK,2010,1,0.94770664
+Kohistan,KPK,2010,1,0.97389096
+Tank,KPK,2010,0,0.619777
+Dera Ismail Khan,KPK,2010,0,0.6033177
+Mardan,KPK,2010,0,0.50675976
+Abbottabad,KPK,2010,0,0.008758117
+Haripur,KPK,2010,0,0.022701273
+Mansehra,KPK,2010,1,0.97419864
+Battagram,KPK,2010,1,0.9760467
+Shangla,KPK,2010,1,0.9745588
+Buner,KPK,2010,1,0.8086914
+Malakand,KPK,2010,1,0.9625321
+Hangu,KPK,2010,0,0.0037813655
+Karak,KPK,2010,0,0.0042027268
+Kohat,KPK,2010,0,0.014604824
+Lakki Marwat,KPK,2010,0,0.513733
+Bannu,KPK,2010,0,0.08023197
+Kurram,KPK,2010,0,0.020847745
+Orakzai,KPK,2010,0,0.0054050027
+Khyber,KPK,2010,0,0.0054567405
+Mohmand,KPK,2010,0,0.3754476
+Bajaur,KPK,2010,0,0.38951635
+South Waziristan,KPK,2010,0,0.011821791
+North Waziristan,KPK,2010,0,0.009910019
+Torghar,KPK,2010,1,0.9682524
+Kolai Pallas,KPK,2010,1,0.9525955
+Swabi,KPK,2010,0,0.38634187
+Tor Ghar,KPK,2010,0,0.045418836
+Khyber Tribal,KPK,2010,0,0.0051273545
+Quetta,Balochistan,2010,0,0.010565184
+Naseerabad,Balochistan,2010,1,0.98528415
+Jaffarabad,Balochistan,2010,1,0.9805126
+Lasbela,Balochistan,2010,0,0.71021914
+Kalat,Balochistan,2010,0,0.076986246
+Khuzdar,Balochistan,2010,0,0.08081479
+Turbat,Balochistan,2010,0,0.17174083
+Gwadar,Balochistan,2010,0,0.27648592
+Panjgur,Balochistan,2010,0,0.08308138
+Chagai,Balochistan,2010,0,0.0030203075
+Nushki,Balochistan,2010,0,0.0021815358
+Kharan,Balochistan,2010,0,0.0038792035
+Washuk,Balochistan,2010,0,0.0027829688
+Awaran,Balochistan,2010,0,0.15724273
+Kech,Balochistan,2010,0,0.17933936
+Dera Bugti,Balochistan,2010,1,0.93048346
+Kohlu,Balochistan,2010,0,0.0041665034
+Sibi,Balochistan,2010,1,0.6324089
+Ziarat,Balochistan,2010,0,0.0022701253
+Pishin,Balochistan,2010,0,0.015180101
+Qilla Abdullah,Balochistan,2010,0,0.0021874895
+Qilla Saifullah,Balochistan,2010,0,0.0041062264
+Loralai,Balochistan,2010,0,0.029702364
+Musakhel,Balochistan,2010,0,0.03601719
+Barkhan,Balochistan,2010,0,0.026105152
+Harnai,Balochistan,2010,0,0.021094376
+Sherani,Balochistan,2010,0,0.0061451066
+Zhob,Balochistan,2010,0,0.0045214877
+Jhal Magsi,Balochistan,2010,1,0.9512205
+Khairpur Tamewali,Balochistan,2010,0,0.0061622076
+Mastung,Balochistan,2010,0,0.011640644
+Surab,Balochistan,2010,0,0.0031532673
+Lehri,Balochistan,2010,1,0.7826571
+Gilgit,GB,2010,0,0.35944253
+Skardu,GB,2010,0,0.041492064
+Hunza,GB,2010,0,0.2699232
+Nagar,GB,2010,0,0.040863365
+Ghanche,GB,2010,0,0.03728454
+Shigar,GB,2010,0,0.004876225
+Kharmang,GB,2010,0,0.006336814
+Roundu,GB,2010,1,0.7187553
+Tangir,GB,2010,1,0.7971262
+Darel,GB,2010,1,0.82503325
+Diamer,GB,2010,1,0.9315122
+Astore,GB,2010,0,0.48151523
+Ghizer,GB,2010,0,0.13723192
+Gupis Yasin,GB,2010,0,0.07455104
+Muzaffarabad,AJK,2010,1,0.9398234
+Mirpur,AJK,2010,0,0.16567561
+Bagh,AJK,2010,0,0.49262235
+Rawalakot,AJK,2010,0,0.004236803
+Kotli,AJK,2010,0,0.09640065
+Neelum,AJK,2010,1,0.91845113
+Haveli,AJK,2010,0,0.004477181
+Sudhnoti,AJK,2010,0,0.0033165908
+Hattian Bala,AJK,2010,1,0.83531207
+Jhelum Valley,AJK,2010,0,0.644623
+Islamabad,ICT,2010,0,0.0032741835
+Lahore,Punjab,2011,0,0.06799174
+Multan,Punjab,2011,0,0.22105949
+Faisalabad,Punjab,2011,0,0.0017225672
+Rawalpindi,Punjab,2011,0,0.0010054398
+Gujranwala,Punjab,2011,0,0.032304812
+Sialkot,Punjab,2011,0,0.01562792
+Bahawalpur,Punjab,2011,1,0.7694641
+Rahim Yar Khan,Punjab,2011,1,0.98315895
+DG Khan,Punjab,2011,0,0.25658557
+Muzaffargarh,Punjab,2011,0,0.6361549
+Gujrat,Punjab,2011,0,0.01645235
+Sheikhupura,Punjab,2011,0,0.084251545
+Sargodha,Punjab,2011,0,0.0034586394
+Jhang,Punjab,2011,0,0.2336524
+Kasur,Punjab,2011,0,0.005327415
+Okara,Punjab,2011,0,0.002567652
+Sahiwal,Punjab,2011,0,0.0017943522
+Pakpattan,Punjab,2011,0,0.0024475243
+Bahawalnagar,Punjab,2011,0,0.025446115
+Vehari,Punjab,2011,0,0.08532284
+Lodhran,Punjab,2011,1,0.74677515
+Khanewal,Punjab,2011,0,0.08772704
+Chiniot,Punjab,2011,0,0.0039577675
+Hafizabad,Punjab,2011,0,0.016247977
+Narowal,Punjab,2011,0,0.01668648
+Nankana Sahib,Punjab,2011,0,0.0054207547
+Mandi Bahauddin,Punjab,2011,0,0.001884468
+Attock,Punjab,2011,0,0.007384491
+Chakwal,Punjab,2011,0,0.00079475576
+Jhelum,Punjab,2011,0,0.0022346335
+Khushab,Punjab,2011,0,0.0023639288
+Bhakkar,Punjab,2011,0,0.061405994
+Layyah,Punjab,2011,0,0.2726777
+Toba Tek Singh,Punjab,2011,0,0.0037442057
+Dera Ghazi Khan,Punjab,2011,0,0.25658557
+Karachi Central,Sindh,2011,1,0.73667705
+Karachi East,Sindh,2011,0,0.18531917
+Karachi West,Sindh,2011,1,0.73667705
+Karachi South,Sindh,2011,0,0.20110436
+Malir,Sindh,2011,1,0.88190836
+Hyderabad,Sindh,2011,1,0.98342806
+Sukkur,Sindh,2011,1,0.98805106
+Larkana,Sindh,2011,1,0.9773269
+Thatta,Sindh,2011,1,0.9802142
+Dadu,Sindh,2011,1,0.9815579
+Jacobabad,Sindh,2011,1,0.9571787
+Kashmore,Sindh,2011,1,0.9882299
+Kamber,Sindh,2011,1,0.9654044
+Shikarpur,Sindh,2011,1,0.5020107
+Mirpur Khas,Sindh,2011,1,0.98667854
+Sanghar,Sindh,2011,1,0.9903358
+Nawabshah,Sindh,2011,1,0.9946741
+Naushahro Feroze,Sindh,2011,1,0.8995561
+Khairpur,Sindh,2011,1,0.9852529
+Ghotki,Sindh,2011,1,0.9232619
+Badin,Sindh,2011,1,0.9198011
+Tharparkar,Sindh,2011,0,0.43006134
+Umerkot,Sindh,2011,0,0.3376719
+Matiari,Sindh,2011,1,0.98764384
+Jamshoro,Sindh,2011,1,0.98442626
+Sujawal,Sindh,2011,1,0.94575185
+Tando Allahyar,Sindh,2011,1,0.96370137
+Tando Muhammad Khan,Sindh,2011,1,0.9217118
+Qambar Shahdadkot,Sindh,2011,1,0.9339126
+Peshawar,KPK,2011,0,0.030140769
+Swat,KPK,2011,0,0.3563747
+Nowshera,KPK,2011,0,0.19949856
+Charsadda,KPK,2011,0,0.16550967
+Dir Upper,KPK,2011,0,0.32640225
+Dir Lower,KPK,2011,0,0.41072622
+Chitral,KPK,2011,0,0.30256796
+Kohistan,KPK,2011,0,0.20401232
+Tank,KPK,2011,0,0.08455098
+Dera Ismail Khan,KPK,2011,0,0.07506971
+Mardan,KPK,2011,0,0.122737564
+Abbottabad,KPK,2011,0,0.00093069556
+Haripur,KPK,2011,0,0.003282008
+Mansehra,KPK,2011,0,0.17902297
+Battagram,KPK,2011,0,0.2496471
+Shangla,KPK,2011,0,0.19460256
+Buner,KPK,2011,0,0.06509824
+Malakand,KPK,2011,0,0.1798485
+Hangu,KPK,2011,0,0.0014993008
+Karak,KPK,2011,0,0.0014408701
+Kohat,KPK,2011,0,0.004338055
+Lakki Marwat,KPK,2011,0,0.0938729
+Bannu,KPK,2011,0,0.068626724
+Kurram,KPK,2011,0,0.0021638072
+Orakzai,KPK,2011,0,0.0015088358
+Khyber,KPK,2011,0,0.0018732304
+Mohmand,KPK,2011,0,0.026201993
+Bajaur,KPK,2011,0,0.027760807
+South Waziristan,KPK,2011,0,0.0022960028
+North Waziristan,KPK,2011,0,0.0017538712
+Torghar,KPK,2011,0,0.12036883
+Kolai Pallas,KPK,2011,0,0.11707028
+Swabi,KPK,2011,0,0.17702676
+Tor Ghar,KPK,2011,0,0.0023329153
+Khyber Tribal,KPK,2011,0,0.001871171
+Quetta,Balochistan,2011,0,0.008449569
+Naseerabad,Balochistan,2011,1,0.9324533
+Jaffarabad,Balochistan,2011,1,0.9284254
+Lasbela,Balochistan,2011,0,0.7212452
+Kalat,Balochistan,2011,0,0.0734599
+Khuzdar,Balochistan,2011,0,0.07649655
+Turbat,Balochistan,2011,0,0.011439657
+Gwadar,Balochistan,2011,0,0.033281107
+Panjgur,Balochistan,2011,0,0.034383494
+Chagai,Balochistan,2011,0,0.0017799082
+Nushki,Balochistan,2011,0,0.0021041506
+Kharan,Balochistan,2011,0,0.0027070825
+Washuk,Balochistan,2011,0,0.0021387383
+Awaran,Balochistan,2011,0,0.038302373
+Kech,Balochistan,2011,0,0.011373059
+Dera Bugti,Balochistan,2011,1,0.6900445
+Kohlu,Balochistan,2011,0,0.001194643
+Sibi,Balochistan,2011,0,0.06320978
+Ziarat,Balochistan,2011,0,0.0011123689
+Pishin,Balochistan,2011,0,0.01687623
+Qilla Abdullah,Balochistan,2011,0,0.0024731664
+Qilla Saifullah,Balochistan,2011,0,0.00063591206
+Loralai,Balochistan,2011,0,0.0073445337
+Musakhel,Balochistan,2011,0,0.015942948
+Barkhan,Balochistan,2011,0,0.006872468
+Harnai,Balochistan,2011,0,0.0039737397
+Sherani,Balochistan,2011,0,0.002421993
+Zhob,Balochistan,2011,0,0.0027208715
+Jhal Magsi,Balochistan,2011,1,0.90308183
+Khairpur Tamewali,Balochistan,2011,0,0.003337045
+Mastung,Balochistan,2011,0,0.009772246
+Surab,Balochistan,2011,0,0.002904863
+Lehri,Balochistan,2011,0,0.08304771
+Gilgit,GB,2011,0,0.23983563
+Skardu,GB,2011,0,0.020431688
+Hunza,GB,2011,0,0.20360486
+Nagar,GB,2011,0,0.03160916
+Ghanche,GB,2011,0,0.041621745
+Shigar,GB,2011,0,0.002640855
+Kharmang,GB,2011,0,0.0039042598
+Roundu,GB,2011,0,0.054039434
+Tangir,GB,2011,0,0.011595783
+Darel,GB,2011,0,0.014345969
+Diamer,GB,2011,0,0.22671977
+Astore,GB,2011,0,0.16799504
+Ghizer,GB,2011,0,0.07597774
+Gupis Yasin,GB,2011,0,0.033853285
+Muzaffarabad,AJK,2011,0,0.16434248
+Mirpur,AJK,2011,0,0.021278795
+Bagh,AJK,2011,0,0.10335454
+Rawalakot,AJK,2011,0,0.0013584101
+Kotli,AJK,2011,0,0.026681732
+Neelum,AJK,2011,0,0.1513403
+Haveli,AJK,2011,0,0.0012280641
+Sudhnoti,AJK,2011,0,0.001051024
+Hattian Bala,AJK,2011,0,0.10077891
+Jhelum Valley,AJK,2011,0,0.09977072
+Islamabad,ICT,2011,0,0.0009644483
+Lahore,Punjab,2012,0,0.056048635
+Multan,Punjab,2012,0,0.3318899
+Faisalabad,Punjab,2012,0,0.0012989728
+Rawalpindi,Punjab,2012,0,0.001222447
+Gujranwala,Punjab,2012,0,0.17802028
+Sialkot,Punjab,2012,0,0.030570159
+Bahawalpur,Punjab,2012,1,0.79840195
+Rahim Yar Khan,Punjab,2012,1,0.9011317
+DG Khan,Punjab,2012,1,0.868748
+Muzaffargarh,Punjab,2012,1,0.8933808
+Gujrat,Punjab,2012,0,0.030546648
+Sheikhupura,Punjab,2012,0,0.068712965
+Sargodha,Punjab,2012,0,0.0030343696
+Jhang,Punjab,2012,0,0.054748923
+Kasur,Punjab,2012,0,0.0055644657
+Okara,Punjab,2012,0,0.0014592689
+Sahiwal,Punjab,2012,0,0.0010676475
+Pakpattan,Punjab,2012,0,0.0028684593
+Bahawalnagar,Punjab,2012,0,0.013627969
+Vehari,Punjab,2012,0,0.08187284
+Lodhran,Punjab,2012,0,0.7942374
+Khanewal,Punjab,2012,0,0.061093617
+Chiniot,Punjab,2012,0,0.0018620613
+Hafizabad,Punjab,2012,0,0.02596649
+Narowal,Punjab,2012,0,0.03186068
+Nankana Sahib,Punjab,2012,0,0.0028033827
+Mandi Bahauddin,Punjab,2012,0,0.0027644036
+Attock,Punjab,2012,0,0.0032992032
+Chakwal,Punjab,2012,0,0.0005601168
+Jhelum,Punjab,2012,0,0.0034749282
+Khushab,Punjab,2012,0,0.002447401
+Bhakkar,Punjab,2012,0,0.09463477
+Layyah,Punjab,2012,0,0.20634018
+Toba Tek Singh,Punjab,2012,0,0.0010596577
+Dera Ghazi Khan,Punjab,2012,1,0.868748
+Karachi Central,Sindh,2012,0,0.03149181
+Karachi East,Sindh,2012,0,0.010559353
+Karachi West,Sindh,2012,0,0.03149181
+Karachi South,Sindh,2012,0,0.011606411
+Malir,Sindh,2012,0,0.05097925
+Hyderabad,Sindh,2012,0,0.082412064
+Sukkur,Sindh,2012,1,0.9578181
+Larkana,Sindh,2012,1,0.9092447
+Thatta,Sindh,2012,0,0.098552
+Dadu,Sindh,2012,1,0.7984366
+Jacobabad,Sindh,2012,0,0.69667685
+Kashmore,Sindh,2012,1,0.94495493
+Kamber,Sindh,2012,1,0.7013392
+Shikarpur,Sindh,2012,0,0.15655103
+Mirpur Khas,Sindh,2012,0,0.09471251
+Sanghar,Sindh,2012,1,0.7216868
+Nawabshah,Sindh,2012,1,0.8504973
+Naushahro Feroze,Sindh,2012,0,0.07207683
+Khairpur,Sindh,2012,1,0.95314455
+Ghotki,Sindh,2012,0,0.6194699
+Badin,Sindh,2012,0,0.067762166
+Tharparkar,Sindh,2012,0,0.013966022
+Umerkot,Sindh,2012,0,0.015816461
+Matiari,Sindh,2012,0,0.110617325
+Jamshoro,Sindh,2012,0,0.073730476
+Sujawal,Sindh,2012,0,0.061927967
+Tando Allahyar,Sindh,2012,0,0.04339253
+Tando Muhammad Khan,Sindh,2012,0,0.022206012
+Qambar Shahdadkot,Sindh,2012,0,0.42807388
+Peshawar,KPK,2012,0,0.042896077
+Swat,KPK,2012,0,0.21384478
+Nowshera,KPK,2012,0,0.21438073
+Charsadda,KPK,2012,0,0.16679795
+Dir Upper,KPK,2012,0,0.26889467
+Dir Lower,KPK,2012,0,0.109818235
+Chitral,KPK,2012,0,0.262486
+Kohistan,KPK,2012,0,0.19293778
+Tank,KPK,2012,0,0.20483404
+Dera Ismail Khan,KPK,2012,0,0.19182208
+Mardan,KPK,2012,0,0.07978149
+Abbottabad,KPK,2012,0,0.0010481697
+Haripur,KPK,2012,0,0.003406879
+Mansehra,KPK,2012,0,0.1319443
+Battagram,KPK,2012,0,0.19874701
+Shangla,KPK,2012,0,0.114301026
+Buner,KPK,2012,0,0.017198432
+Malakand,KPK,2012,0,0.066416666
+Hangu,KPK,2012,0,0.0023095796
+Karak,KPK,2012,0,0.0011255409
+Kohat,KPK,2012,0,0.003947868
+Lakki Marwat,KPK,2012,0,0.08073444
+Bannu,KPK,2012,0,0.011665632
+Kurram,KPK,2012,0,0.0019858351
+Orakzai,KPK,2012,0,0.000614178
+Khyber,KPK,2012,0,0.0020908266
+Mohmand,KPK,2012,0,0.0061924704
+Bajaur,KPK,2012,0,0.00604596
+South Waziristan,KPK,2012,0,0.0022520786
+North Waziristan,KPK,2012,0,0.0012948008
+Torghar,KPK,2012,0,0.12135225
+Kolai Pallas,KPK,2012,0,0.10030477
+Swabi,KPK,2012,0,0.10655762
+Tor Ghar,KPK,2012,0,0.002859007
+Khyber Tribal,KPK,2012,0,0.0021111036
+Quetta,Balochistan,2012,0,0.0044526136
+Naseerabad,Balochistan,2012,1,0.972681
+Jaffarabad,Balochistan,2012,1,0.9539154
+Lasbela,Balochistan,2012,0,0.13703741
+Kalat,Balochistan,2012,0,0.02516821
+Khuzdar,Balochistan,2012,0,0.030224439
+Turbat,Balochistan,2012,0,0.012036359
+Gwadar,Balochistan,2012,0,0.018099213
+Panjgur,Balochistan,2012,0,0.019726323
+Chagai,Balochistan,2012,0,0.0062379683
+Nushki,Balochistan,2012,0,0.0012521811
+Kharan,Balochistan,2012,0,0.0010850246
+Washuk,Balochistan,2012,0,0.00194861
+Awaran,Balochistan,2012,0,0.03077533
+Kech,Balochistan,2012,0,0.011617593
+Dera Bugti,Balochistan,2012,0,0.58809644
+Kohlu,Balochistan,2012,0,0.0019404487
+Sibi,Balochistan,2012,0,0.09793628
+Ziarat,Balochistan,2012,0,0.0013557503
+Pishin,Balochistan,2012,0,0.00346614
+Qilla Abdullah,Balochistan,2012,0,0.0006567558
+Qilla Saifullah,Balochistan,2012,0,0.0015311044
+Loralai,Balochistan,2012,0,0.0062605925
+Musakhel,Balochistan,2012,0,0.014504773
+Barkhan,Balochistan,2012,0,0.0124307955
+Harnai,Balochistan,2012,0,0.01891916
+Sherani,Balochistan,2012,0,0.001668231
+Zhob,Balochistan,2012,0,0.0017446198
+Jhal Magsi,Balochistan,2012,1,0.9671185
+Khairpur Tamewali,Balochistan,2012,0,0.0030314026
+Mastung,Balochistan,2012,0,0.0050685657
+Surab,Balochistan,2012,0,0.0011004542
+Lehri,Balochistan,2012,0,0.16923325
+Gilgit,GB,2012,0,0.1294755
+Skardu,GB,2012,0,0.007769331
+Hunza,GB,2012,0,0.24645348
+Nagar,GB,2012,0,0.010373819
+Ghanche,GB,2012,0,0.051678043
+Shigar,GB,2012,0,0.0010747587
+Kharmang,GB,2012,0,0.0013085615
+Roundu,GB,2012,0,0.037316293
+Tangir,GB,2012,0,0.020408787
+Darel,GB,2012,0,0.025195876
+Diamer,GB,2012,0,0.15076488
+Astore,GB,2012,0,0.082394145
+Ghizer,GB,2012,0,0.050184067
+Gupis Yasin,GB,2012,0,0.059439432
+Muzaffarabad,AJK,2012,0,0.1730476
+Mirpur,AJK,2012,0,0.022947019
+Bagh,AJK,2012,0,0.08187104
+Rawalakot,AJK,2012,0,0.002158041
+Kotli,AJK,2012,0,0.019725056
+Neelum,AJK,2012,0,0.11736239
+Haveli,AJK,2012,0,0.0019942191
+Sudhnoti,AJK,2012,0,0.0008451025
+Hattian Bala,AJK,2012,0,0.057921354
+Jhelum Valley,AJK,2012,0,0.03823478
+Islamabad,ICT,2012,0,0.001222447
+Lahore,Punjab,2013,0,0.06436973
+Multan,Punjab,2013,0,0.09309536
+Faisalabad,Punjab,2013,0,0.0033204248
+Rawalpindi,Punjab,2013,0,0.002341197
+Gujranwala,Punjab,2013,0,0.041091867
+Sialkot,Punjab,2013,0,0.016374063
+Bahawalpur,Punjab,2013,0,0.22693905
+Rahim Yar Khan,Punjab,2013,0,0.38365644
+DG Khan,Punjab,2013,0,0.33895713
+Muzaffargarh,Punjab,2013,0,0.35298148
+Gujrat,Punjab,2013,0,0.01616203
+Sheikhupura,Punjab,2013,0,0.103850335
+Sargodha,Punjab,2013,0,0.0067721494
+Jhang,Punjab,2013,0,0.12790224
+Kasur,Punjab,2013,0,0.004054644
+Okara,Punjab,2013,0,0.0027197772
+Sahiwal,Punjab,2013,0,0.0010311808
+Pakpattan,Punjab,2013,0,0.0020631861
+Bahawalnagar,Punjab,2013,0,0.01146717
+Vehari,Punjab,2013,0,0.13234662
+Lodhran,Punjab,2013,0,0.22268859
+Khanewal,Punjab,2013,0,0.07670613
+Chiniot,Punjab,2013,0,0.0042932867
+Hafizabad,Punjab,2013,0,0.053247817
+Narowal,Punjab,2013,0,0.030403102
+Nankana Sahib,Punjab,2013,0,0.0037488097
+Mandi Bahauddin,Punjab,2013,0,0.004404922
+Attock,Punjab,2013,0,0.0103380615
+Chakwal,Punjab,2013,0,0.0018159178
+Jhelum,Punjab,2013,0,0.0028090163
+Khushab,Punjab,2013,0,0.009423288
+Bhakkar,Punjab,2013,0,0.064187266
+Layyah,Punjab,2013,0,0.18836416
+Toba Tek Singh,Punjab,2013,0,0.0021475856
+Dera Ghazi Khan,Punjab,2013,0,0.33895713
+Karachi Central,Sindh,2013,0,0.016991068
+Karachi East,Sindh,2013,0,0.006096109
+Karachi West,Sindh,2013,0,0.016991068
+Karachi South,Sindh,2013,0,0.0050555854
+Malir,Sindh,2013,0,0.011811851
+Hyderabad,Sindh,2013,0,0.064432584
+Sukkur,Sindh,2013,0,0.18833025
+Larkana,Sindh,2013,0,0.28760055
+Thatta,Sindh,2013,0,0.02225758
+Dadu,Sindh,2013,0,0.17579046
+Jacobabad,Sindh,2013,0,0.06629877
+Kashmore,Sindh,2013,0,0.2198056
+Kamber,Sindh,2013,0,0.1577668
+Shikarpur,Sindh,2013,0,0.029731303
+Mirpur Khas,Sindh,2013,0,0.022078114
+Sanghar,Sindh,2013,0,0.0821939
+Nawabshah,Sindh,2013,0,0.2618613
+Naushahro Feroze,Sindh,2013,0,0.051604632
+Khairpur,Sindh,2013,0,0.1316167
+Ghotki,Sindh,2013,0,0.16941719
+Badin,Sindh,2013,0,0.011295058
+Tharparkar,Sindh,2013,0,0.011321261
+Umerkot,Sindh,2013,0,0.008656732
+Matiari,Sindh,2013,0,0.024544222
+Jamshoro,Sindh,2013,0,0.054058306
+Sujawal,Sindh,2013,0,0.010656974
+Tando Allahyar,Sindh,2013,0,0.01227944
+Tando Muhammad Khan,Sindh,2013,0,0.012169024
+Qambar Shahdadkot,Sindh,2013,0,0.08752658
+Peshawar,KPK,2013,0,0.05814683
+Swat,KPK,2013,1,0.9165756
+Nowshera,KPK,2013,0,0.38006812
+Charsadda,KPK,2013,0,0.283541
+Dir Upper,KPK,2013,1,0.844832
+Dir Lower,KPK,2013,1,0.82741714
+Chitral,KPK,2013,1,0.87344646
+Kohistan,KPK,2013,1,0.8517294
+Tank,KPK,2013,0,0.035144117
+Dera Ismail Khan,KPK,2013,0,0.035442047
+Mardan,KPK,2013,0,0.14936493
+Abbottabad,KPK,2013,0,0.0021489728
+Haripur,KPK,2013,0,0.005661959
+Mansehra,KPK,2013,0,0.74284405
+Battagram,KPK,2013,1,0.8765431
+Shangla,KPK,2013,1,0.87843823
+Buner,KPK,2013,0,0.13703038
+Malakand,KPK,2013,0,0.34661075
+Hangu,KPK,2013,0,0.005524935
+Karak,KPK,2013,0,0.003072053
+Kohat,KPK,2013,0,0.0071691056
+Lakki Marwat,KPK,2013,0,0.095492184
+Bannu,KPK,2013,0,0.010969386
+Kurram,KPK,2013,0,0.0020092584
+Orakzai,KPK,2013,0,0.001121429
+Khyber,KPK,2013,0,0.005296853
+Mohmand,KPK,2013,0,0.041043784
+Bajaur,KPK,2013,0,0.04645467
+South Waziristan,KPK,2013,0,0.0019023799
+North Waziristan,KPK,2013,0,0.0017923862
+Torghar,KPK,2013,0,0.6753392
+Kolai Pallas,KPK,2013,0,0.5307331
+Swabi,KPK,2013,0,0.3289652
+Tor Ghar,KPK,2013,0,0.0064469147
+Khyber Tribal,KPK,2013,0,0.005510303
+Quetta,Balochistan,2013,0,0.010042944
+Naseerabad,Balochistan,2013,0,0.3425992
+Jaffarabad,Balochistan,2013,0,0.43064028
+Lasbela,Balochistan,2013,0,0.08166869
+Kalat,Balochistan,2013,0,0.050466623
+Khuzdar,Balochistan,2013,0,0.09056042
+Turbat,Balochistan,2013,0,0.019508556
+Gwadar,Balochistan,2013,0,0.009520399
+Panjgur,Balochistan,2013,0,0.029613715
+Chagai,Balochistan,2013,0,0.0022741247
+Nushki,Balochistan,2013,0,0.0010596521
+Kharan,Balochistan,2013,0,0.0026153156
+Washuk,Balochistan,2013,0,0.0017263497
+Awaran,Balochistan,2013,0,0.06990458
+Kech,Balochistan,2013,0,0.021143265
+Dera Bugti,Balochistan,2013,0,0.32398006
+Kohlu,Balochistan,2013,0,0.0035908408
+Sibi,Balochistan,2013,0,0.055126242
+Ziarat,Balochistan,2013,0,0.0019955481
+Pishin,Balochistan,2013,0,0.010022594
+Qilla Abdullah,Balochistan,2013,0,0.0016798746
+Qilla Saifullah,Balochistan,2013,0,0.0020623382
+Loralai,Balochistan,2013,0,0.030983409
+Musakhel,Balochistan,2013,0,0.013792336
+Barkhan,Balochistan,2013,0,0.021641733
+Harnai,Balochistan,2013,0,0.013299005
+Sherani,Balochistan,2013,0,0.0014187341
+Zhob,Balochistan,2013,0,0.0018187021
+Jhal Magsi,Balochistan,2013,0,0.2792751
+Khairpur Tamewali,Balochistan,2013,0,0.0045086946
+Mastung,Balochistan,2013,0,0.010115952
+Surab,Balochistan,2013,0,0.0016785254
+Lehri,Balochistan,2013,0,0.055046692
+Gilgit,GB,2013,1,0.8826433
+Skardu,GB,2013,0,0.1350634
+Hunza,GB,2013,0,0.593819
+Nagar,GB,2013,0,0.3112902
+Ghanche,GB,2013,0,0.12102337
+Shigar,GB,2013,0,0.014599658
+Kharmang,GB,2013,0,0.006368285
+Roundu,GB,2013,0,0.28423914
+Tangir,GB,2013,0,0.07086879
+Darel,GB,2013,0,0.088588476
+Diamer,GB,2013,1,0.78424627
+Astore,GB,2013,1,0.8271149
+Ghizer,GB,2013,1,0.71872634
+Gupis Yasin,GB,2013,0,0.2056537
+Muzaffarabad,AJK,2013,1,0.6960637
+Mirpur,AJK,2013,0,0.037349194
+Bagh,AJK,2013,0,0.28104457
+Rawalakot,AJK,2013,0,0.0041414914
+Kotli,AJK,2013,0,0.05448544
+Neelum,AJK,2013,1,0.6815502
+Haveli,AJK,2013,0,0.0034718995
+Sudhnoti,AJK,2013,0,0.0021223845
+Hattian Bala,AJK,2013,0,0.38320613
+Jhelum Valley,AJK,2013,0,0.38797802
+Islamabad,ICT,2013,0,0.0022458695
+Lahore,Punjab,2014,1,0.8935004
+Multan,Punjab,2014,1,0.8221975
+Faisalabad,Punjab,2014,0,0.009006493
+Rawalpindi,Punjab,2014,0,0.005992872
+Gujranwala,Punjab,2014,1,0.9014896
+Sialkot,Punjab,2014,1,0.9452843
+Bahawalpur,Punjab,2014,0,0.22242685
+Rahim Yar Khan,Punjab,2014,0,0.03856637
+DG Khan,Punjab,2014,1,0.74688995
+Muzaffargarh,Punjab,2014,1,0.90894353
+Gujrat,Punjab,2014,1,0.9462965
+Sheikhupura,Punjab,2014,1,0.88256174
+Sargodha,Punjab,2014,0,0.02419646
+Jhang,Punjab,2014,0,0.2963927
+Kasur,Punjab,2014,0,0.0931071
+Okara,Punjab,2014,0,0.020302422
+Sahiwal,Punjab,2014,0,0.004034884
+Pakpattan,Punjab,2014,0,0.014935044
+Bahawalnagar,Punjab,2014,0,0.103981525
+Vehari,Punjab,2014,0,0.26942864
+Lodhran,Punjab,2014,0,0.22733705
+Khanewal,Punjab,2014,0,0.23000827
+Chiniot,Punjab,2014,0,0.027120398
+Hafizabad,Punjab,2014,0,0.6932739
+Narowal,Punjab,2014,1,0.9358162
+Nankana Sahib,Punjab,2014,0,0.07699517
+Mandi Bahauddin,Punjab,2014,0,0.09034583
+Attock,Punjab,2014,0,0.05755337
+Chakwal,Punjab,2014,0,0.007546159
+Jhelum,Punjab,2014,0,0.08954005
+Khushab,Punjab,2014,0,0.03265878
+Bhakkar,Punjab,2014,1,0.7531156
+Layyah,Punjab,2014,1,0.71275765
+Toba Tek Singh,Punjab,2014,0,0.00395113
+Dera Ghazi Khan,Punjab,2014,1,0.74688995
+Karachi Central,Sindh,2014,0,0.010600634
+Karachi East,Sindh,2014,0,0.0059977514
+Karachi West,Sindh,2014,0,0.010600634
+Karachi South,Sindh,2014,0,0.0063229753
+Malir,Sindh,2014,0,0.0098611815
+Hyderabad,Sindh,2014,0,0.015392223
+Sukkur,Sindh,2014,0,0.042434596
+Larkana,Sindh,2014,0,0.05434648
+Thatta,Sindh,2014,0,0.030543664
+Dadu,Sindh,2014,0,0.03854007
+Jacobabad,Sindh,2014,0,0.031061744
+Kashmore,Sindh,2014,0,0.04466676
+Kamber,Sindh,2014,0,0.0477957
+Shikarpur,Sindh,2014,0,0.014814686
+Mirpur Khas,Sindh,2014,0,0.012319362
+Sanghar,Sindh,2014,0,0.022898203
+Nawabshah,Sindh,2014,0,0.033624575
+Naushahro Feroze,Sindh,2014,0,0.036856204
+Khairpur,Sindh,2014,0,0.030001488
+Ghotki,Sindh,2014,0,0.03342264
+Badin,Sindh,2014,0,0.045819562
+Tharparkar,Sindh,2014,0,0.01625512
+Umerkot,Sindh,2014,0,0.0051674047
+Matiari,Sindh,2014,0,0.01235107
+Jamshoro,Sindh,2014,0,0.014634773
+Sujawal,Sindh,2014,0,0.02301343
+Tando Allahyar,Sindh,2014,0,0.0070963847
+Tando Muhammad Khan,Sindh,2014,0,0.04073621
+Qambar Shahdadkot,Sindh,2014,0,0.043273985
+Peshawar,KPK,2014,1,0.7932167
+Swat,KPK,2014,0,0.62011766
+Nowshera,KPK,2014,1,0.9089004
+Charsadda,KPK,2014,1,0.89369404
+Dir Upper,KPK,2014,0,0.6037672
+Dir Lower,KPK,2014,0,0.3986648
+Chitral,KPK,2014,0,0.71769214
+Kohistan,KPK,2014,0,0.44200417
+Tank,KPK,2014,0,0.2941662
+Dera Ismail Khan,KPK,2014,0,0.29919714
+Mardan,KPK,2014,1,0.84916544
+Abbottabad,KPK,2014,0,0.0077528404
+Haripur,KPK,2014,0,0.05517234
+Mansehra,KPK,2014,0,0.40634853
+Battagram,KPK,2014,0,0.5276356
+Shangla,KPK,2014,0,0.40871632
+Buner,KPK,2014,0,0.21154511
+Malakand,KPK,2014,0,0.33653158
+Hangu,KPK,2014,0,0.010441893
+Karak,KPK,2014,0,0.009722578
+Kohat,KPK,2014,0,0.033203274
+Lakki Marwat,KPK,2014,0,0.22304167
+Bannu,KPK,2014,0,0.05651356
+Kurram,KPK,2014,0,0.003761191
+Orakzai,KPK,2014,0,0.0025522462
+Khyber,KPK,2014,0,0.022511274
+Mohmand,KPK,2014,0,0.048543245
+Bajaur,KPK,2014,0,0.04786046
+South Waziristan,KPK,2014,0,0.0021254525
+North Waziristan,KPK,2014,0,0.0069119707
+Torghar,KPK,2014,0,0.28266838
+Kolai Pallas,KPK,2014,0,0.2886791
+Swabi,KPK,2014,1,0.76611525
+Tor Ghar,KPK,2014,0,0.009103067
+Khyber Tribal,KPK,2014,0,0.022662846
+Quetta,Balochistan,2014,0,0.011936289
+Naseerabad,Balochistan,2014,0,0.23900029
+Jaffarabad,Balochistan,2014,0,0.18138449
+Lasbela,Balochistan,2014,0,0.0277532
+Kalat,Balochistan,2014,0,0.028002402
+Khuzdar,Balochistan,2014,0,0.021414377
+Turbat,Balochistan,2014,0,0.26409602
+Gwadar,Balochistan,2014,0,0.028925827
+Panjgur,Balochistan,2014,0,0.07783772
+Chagai,Balochistan,2014,0,0.004096173
+Nushki,Balochistan,2014,0,0.0014575884
+Kharan,Balochistan,2014,0,0.0018671021
+Washuk,Balochistan,2014,0,0.0030683267
+Awaran,Balochistan,2014,0,0.1418474
+Kech,Balochistan,2014,0,0.248615
+Dera Bugti,Balochistan,2014,0,0.037049618
+Kohlu,Balochistan,2014,0,0.0011989533
+Sibi,Balochistan,2014,0,0.033555623
+Ziarat,Balochistan,2014,0,0.0012427878
+Pishin,Balochistan,2014,0,0.01067445
+Qilla Abdullah,Balochistan,2014,0,0.0014502475
+Qilla Saifullah,Balochistan,2014,0,0.0014677458
+Loralai,Balochistan,2014,0,0.006347325
+Musakhel,Balochistan,2014,0,0.010635076
+Barkhan,Balochistan,2014,0,0.007245759
+Harnai,Balochistan,2014,0,0.009387791
+Sherani,Balochistan,2014,0,0.0014200676
+Zhob,Balochistan,2014,0,0.0016447023
+Jhal Magsi,Balochistan,2014,0,0.07361965
+Khairpur Tamewali,Balochistan,2014,0,0.004666292
+Mastung,Balochistan,2014,0,0.011827541
+Surab,Balochistan,2014,0,0.0019143724
+Lehri,Balochistan,2014,0,0.034360707
+Gilgit,GB,2014,0,0.49941584
+Skardu,GB,2014,0,0.059893534
+Hunza,GB,2014,0,0.602058
+Nagar,GB,2014,0,0.07759161
+Ghanche,GB,2014,0,0.07559346
+Shigar,GB,2014,0,0.004763715
+Kharmang,GB,2014,0,0.005960461
+Roundu,GB,2014,0,0.27540487
+Tangir,GB,2014,0,0.09832936
+Darel,GB,2014,0,0.114036776
+Diamer,GB,2014,0,0.5995173
+Astore,GB,2014,0,0.30443236
+Ghizer,GB,2014,0,0.3209804
+Gupis Yasin,GB,2014,0,0.1515605
+Muzaffarabad,AJK,2014,1,0.9587147
+Mirpur,AJK,2014,1,0.83381
+Bagh,AJK,2014,1,0.84637946
+Rawalakot,AJK,2014,0,0.020014616
+Kotli,AJK,2014,1,0.89247936
+Neelum,AJK,2014,0,0.9298626
+Haveli,AJK,2014,0,0.018240832
+Sudhnoti,AJK,2014,0,0.020981189
+Hattian Bala,AJK,2014,1,0.8995433
+Jhelum Valley,AJK,2014,1,0.8638402
+Islamabad,ICT,2014,0,0.005749715
+Lahore,Punjab,2015,0,0.12664396
+Multan,Punjab,2015,0,0.10998282
+Faisalabad,Punjab,2015,0,0.001892106
+Rawalpindi,Punjab,2015,0,0.0020474526
+Gujranwala,Punjab,2015,0,0.2521727
+Sialkot,Punjab,2015,0,0.09878259
+Bahawalpur,Punjab,2015,0,0.23749827
+Rahim Yar Khan,Punjab,2015,0,0.42225528
+DG Khan,Punjab,2015,0,0.414682
+Muzaffargarh,Punjab,2015,0,0.42010483
+Gujrat,Punjab,2015,0,0.09878259
+Sheikhupura,Punjab,2015,0,0.036940847
+Sargodha,Punjab,2015,0,0.0017948117
+Jhang,Punjab,2015,0,0.046230666
+Kasur,Punjab,2015,0,0.003524793
+Okara,Punjab,2015,0,0.0011367087
+Sahiwal,Punjab,2015,0,0.0014394362
+Pakpattan,Punjab,2015,0,0.0012625331
+Bahawalnagar,Punjab,2015,0,0.009489137
+Vehari,Punjab,2015,0,0.14057596
+Lodhran,Punjab,2015,0,0.23101802
+Khanewal,Punjab,2015,0,0.029505031
+Chiniot,Punjab,2015,0,0.002168833
+Hafizabad,Punjab,2015,0,0.02067163
+Narowal,Punjab,2015,0,0.050123386
+Nankana Sahib,Punjab,2015,0,0.0012818347
+Mandi Bahauddin,Punjab,2015,0,0.0063190274
+Attock,Punjab,2015,0,0.0025897904
+Chakwal,Punjab,2015,0,0.0027967454
+Jhelum,Punjab,2015,0,0.0095828995
+Khushab,Punjab,2015,0,0.0027365126
+Bhakkar,Punjab,2015,0,0.0880237
+Layyah,Punjab,2015,0,0.1866213
+Toba Tek Singh,Punjab,2015,0,0.0022199051
+Dera Ghazi Khan,Punjab,2015,0,0.414682
+Karachi Central,Sindh,2015,0,0.009983537
+Karachi East,Sindh,2015,0,0.0041135005
+Karachi West,Sindh,2015,0,0.009983537
+Karachi South,Sindh,2015,0,0.0037256465
+Malir,Sindh,2015,0,0.011195738
+Hyderabad,Sindh,2015,0,0.023009904
+Sukkur,Sindh,2015,0,0.1812161
+Larkana,Sindh,2015,0,0.14721671
+Thatta,Sindh,2015,0,0.032533873
+Dadu,Sindh,2015,0,0.24576093
+Jacobabad,Sindh,2015,0,0.048692614
+Kashmore,Sindh,2015,0,0.29886162
+Kamber,Sindh,2015,0,0.08296646
+Shikarpur,Sindh,2015,0,0.012405684
+Mirpur Khas,Sindh,2015,0,0.022115868
+Sanghar,Sindh,2015,0,0.097907044
+Nawabshah,Sindh,2015,0,0.23027487
+Naushahro Feroze,Sindh,2015,0,0.04686901
+Khairpur,Sindh,2015,0,0.1322271
+Ghotki,Sindh,2015,0,0.22659709
+Badin,Sindh,2015,0,0.012456825
+Tharparkar,Sindh,2015,0,0.016585805
+Umerkot,Sindh,2015,0,0.008693408
+Matiari,Sindh,2015,0,0.028296107
+Jamshoro,Sindh,2015,0,0.020718303
+Sujawal,Sindh,2015,0,0.011870581
+Tando Allahyar,Sindh,2015,0,0.011859774
+Tando Muhammad Khan,Sindh,2015,0,0.012332772
+Qambar Shahdadkot,Sindh,2015,0,0.051645793
+Peshawar,KPK,2015,0,0.063435316
+Swat,KPK,2015,1,0.9057929
+Nowshera,KPK,2015,0,0.55642503
+Charsadda,KPK,2015,0,0.4858617
+Dir Upper,KPK,2015,1,0.8626986
+Dir Lower,KPK,2015,1,0.8755998
+Chitral,KPK,2015,1,0.8646401
+Kohistan,KPK,2015,1,0.962648
+Tank,KPK,2015,0,0.07302727
+Dera Ismail Khan,KPK,2015,0,0.06905652
+Mardan,KPK,2015,0,0.34927437
+Abbottabad,KPK,2015,0,0.0018805921
+Haripur,KPK,2015,0,0.0031544967
+Mansehra,KPK,2015,1,0.73982084
+Battagram,KPK,2015,1,0.841129
+Shangla,KPK,2015,1,0.87215227
+Buner,KPK,2015,0,0.07076782
+Malakand,KPK,2015,1,0.8281491
+Hangu,KPK,2015,0,0.008837722
+Karak,KPK,2015,0,0.008892301
+Kohat,KPK,2015,0,0.013528375
+Lakki Marwat,KPK,2015,0,0.29322067
+Bannu,KPK,2015,0,0.10705542
+Kurram,KPK,2015,0,0.007129366
+Orakzai,KPK,2015,0,0.0036019648
+Khyber,KPK,2015,0,0.005090536
+Mohmand,KPK,2015,0,0.045524646
+Bajaur,KPK,2015,0,0.051388506
+South Waziristan,KPK,2015,0,0.0045203306
+North Waziristan,KPK,2015,0,0.005767884
+Torghar,KPK,2015,1,0.9301885
+Kolai Pallas,KPK,2015,1,0.90617657
+Swabi,KPK,2015,0,0.10717425
+Tor Ghar,KPK,2015,0,0.058444016
+Khyber Tribal,KPK,2015,0,0.0053945975
+Quetta,Balochistan,2015,0,0.008302058
+Naseerabad,Balochistan,2015,0,0.17891349
+Jaffarabad,Balochistan,2015,0,0.23772803
+Lasbela,Balochistan,2015,0,0.13912846
+Kalat,Balochistan,2015,0,0.058488652
+Khuzdar,Balochistan,2015,0,0.038838107
+Turbat,Balochistan,2015,0,0.036882337
+Gwadar,Balochistan,2015,0,0.027953383
+Panjgur,Balochistan,2015,0,0.028346254
+Chagai,Balochistan,2015,0,0.0058811465
+Nushki,Balochistan,2015,0,0.0020451176
+Kharan,Balochistan,2015,0,0.0047824224
+Washuk,Balochistan,2015,0,0.0021828744
+Awaran,Balochistan,2015,0,0.049795963
+Kech,Balochistan,2015,0,0.037688375
+Dera Bugti,Balochistan,2015,0,0.2283741
+Kohlu,Balochistan,2015,0,0.0017207765
+Sibi,Balochistan,2015,0,0.019342743
+Ziarat,Balochistan,2015,0,0.0020318378
+Pishin,Balochistan,2015,0,0.008166249
+Qilla Abdullah,Balochistan,2015,0,0.0014887736
+Qilla Saifullah,Balochistan,2015,0,0.003405178
+Loralai,Balochistan,2015,0,0.00925567
+Musakhel,Balochistan,2015,0,0.010941579
+Barkhan,Balochistan,2015,0,0.008036635
+Harnai,Balochistan,2015,0,0.0066433214
+Sherani,Balochistan,2015,0,0.002429655
+Zhob,Balochistan,2015,0,0.0028724924
+Jhal Magsi,Balochistan,2015,0,0.19357976
+Khairpur Tamewali,Balochistan,2015,0,0.0025374843
+Mastung,Balochistan,2015,0,0.008226145
+Surab,Balochistan,2015,0,0.0035721515
+Lehri,Balochistan,2015,0,0.027586197
+Gilgit,GB,2015,1,0.9340775
+Skardu,GB,2015,0,0.1652235
+Hunza,GB,2015,1,0.8463333
+Nagar,GB,2015,1,0.74958265
+Ghanche,GB,2015,0,0.07349995
+Shigar,GB,2015,0,0.021055423
+Kharmang,GB,2015,0,0.008291645
+Roundu,GB,2015,0,0.48038667
+Tangir,GB,2015,0,0.14939882
+Darel,GB,2015,0,0.18288887
+Diamer,GB,2015,1,0.9062266
+Astore,GB,2015,1,0.43107325
+Ghizer,GB,2015,1,0.86381584
+Gupis Yasin,GB,2015,1,0.72648704
+Muzaffarabad,AJK,2015,1,0.8752027
+Mirpur,AJK,2015,0,0.20014231
+Bagh,AJK,2015,0,0.34401965
+Rawalakot,AJK,2015,0,0.0052495627
+Kotli,AJK,2015,0,0.051082704
+Neelum,AJK,2015,1,0.8225101
+Haveli,AJK,2015,0,0.0040224264
+Sudhnoti,AJK,2015,0,0.0024489302
+Hattian Bala,AJK,2015,0,0.617844
+Jhelum Valley,AJK,2015,0,0.4209834
+Islamabad,ICT,2015,0,0.0020474526
+Lahore,Punjab,2016,0,0.06290457
+Multan,Punjab,2016,1,0.2649745
+Faisalabad,Punjab,2016,0,0.0010227473
+Rawalpindi,Punjab,2016,0,0.0015434127
+Gujranwala,Punjab,2016,0,0.028802203
+Sialkot,Punjab,2016,0,0.016043255
+Bahawalpur,Punjab,2016,1,0.3175002
+Rahim Yar Khan,Punjab,2016,1,0.73749715
+DG Khan,Punjab,2016,0,0.30517334
+Muzaffargarh,Punjab,2016,1,0.80270827
+Gujrat,Punjab,2016,0,0.016030734
+Sheikhupura,Punjab,2016,0,0.11051699
+Sargodha,Punjab,2016,0,0.0036130424
+Jhang,Punjab,2016,0,0.03585648
+Kasur,Punjab,2016,0,0.0069635417
+Okara,Punjab,2016,0,0.0022342019
+Sahiwal,Punjab,2016,0,0.0010067602
+Pakpattan,Punjab,2016,0,0.0033828972
+Bahawalnagar,Punjab,2016,0,0.010688654
+Vehari,Punjab,2016,0,0.035512697
+Lodhran,Punjab,2016,1,0.3122387
+Khanewal,Punjab,2016,0,0.106063664
+Chiniot,Punjab,2016,0,0.0015083726
+Hafizabad,Punjab,2016,0,0.015140246
+Narowal,Punjab,2016,0,0.012676367
+Nankana Sahib,Punjab,2016,0,0.005861164
+Mandi Bahauddin,Punjab,2016,0,0.001624592
+Attock,Punjab,2016,0,0.0018523901
+Chakwal,Punjab,2016,0,0.0014031356
+Jhelum,Punjab,2016,0,0.0039675073
+Khushab,Punjab,2016,0,0.0042191707
+Bhakkar,Punjab,2016,0,0.048766986
+Layyah,Punjab,2016,0,0.12232477
+Toba Tek Singh,Punjab,2016,0,0.0019375207
+Dera Ghazi Khan,Punjab,2016,0,0.30517334
+Karachi Central,Sindh,2016,0,0.025750132
+Karachi East,Sindh,2016,0,0.010553585
+Karachi West,Sindh,2016,0,0.025750132
+Karachi South,Sindh,2016,0,0.009912551
+Malir,Sindh,2016,0,0.0265223
+Hyderabad,Sindh,2016,0,0.07464907
+Sukkur,Sindh,2016,1,0.8485492
+Larkana,Sindh,2016,1,0.8613444
+Thatta,Sindh,2016,0,0.07218487
+Dadu,Sindh,2016,0,0.107311174
+Jacobabad,Sindh,2016,0,0.18099114
+Kashmore,Sindh,2016,0,0.649874
+Kamber,Sindh,2016,0,0.64019793
+Shikarpur,Sindh,2016,0,0.094238326
+Mirpur Khas,Sindh,2016,0,0.044712573
+Sanghar,Sindh,2016,0,0.24968569
+Nawabshah,Sindh,2016,1,0.8052606
+Naushahro Feroze,Sindh,2016,0,0.057726957
+Khairpur,Sindh,2016,1,0.7952443
+Ghotki,Sindh,2016,0,0.65204984
+Badin,Sindh,2016,0,0.028736968
+Tharparkar,Sindh,2016,0,0.017479839
+Umerkot,Sindh,2016,0,0.019023651
+Matiari,Sindh,2016,0,0.050897393
+Jamshoro,Sindh,2016,0,0.061505847
+Sujawal,Sindh,2016,0,0.03164585
+Tando Allahyar,Sindh,2016,0,0.021991435
+Tando Muhammad Khan,Sindh,2016,0,0.033758417
+Qambar Shahdadkot,Sindh,2016,0,0.40584043
+Peshawar,KPK,2016,0,0.023272758
+Swat,KPK,2016,0,0.22171053
+Nowshera,KPK,2016,0,0.19127098
+Charsadda,KPK,2016,0,0.14781149
+Dir Upper,KPK,2016,0,0.21731815
+Dir Lower,KPK,2016,0,0.1113074
+Chitral,KPK,2016,0,0.24037433
+Kohistan,KPK,2016,0,0.11801067
+Tank,KPK,2016,0,0.119913176
+Dera Ismail Khan,KPK,2016,0,0.094211124
+Mardan,KPK,2016,0,0.1069774
+Abbottabad,KPK,2016,0,0.0010126194
+Haripur,KPK,2016,0,0.003058756
+Mansehra,KPK,2016,0,0.12187093
+Battagram,KPK,2016,0,0.1941424
+Shangla,KPK,2016,0,0.12715872
+Buner,KPK,2016,0,0.02461128
+Malakand,KPK,2016,0,0.21865766
+Hangu,KPK,2016,0,0.0014469023
+Karak,KPK,2016,0,0.002977118
+Kohat,KPK,2016,0,0.002654165
+Lakki Marwat,KPK,2016,0,0.25775945
+Bannu,KPK,2016,0,0.0099870395
+Kurram,KPK,2016,0,0.0019459967
+Orakzai,KPK,2016,0,0.0008131086
+Khyber,KPK,2016,0,0.0014040953
+Mohmand,KPK,2016,0,0.011186757
+Bajaur,KPK,2016,0,0.012732889
+South Waziristan,KPK,2016,0,0.004548296
+North Waziristan,KPK,2016,0,0.0021616574
+Torghar,KPK,2016,0,0.07493526
+Kolai Pallas,KPK,2016,0,0.06497015
+Swabi,KPK,2016,0,0.04835512
+Tor Ghar,KPK,2016,0,0.0017337244
+Khyber Tribal,KPK,2016,0,0.0013541984
+Quetta,Balochistan,2016,0,0.008703107
+Naseerabad,Balochistan,2016,1,0.91986793
+Jaffarabad,Balochistan,2016,1,0.9424641
+Lasbela,Balochistan,2016,0,0.056688204
+Kalat,Balochistan,2016,0,0.05735949
+Khuzdar,Balochistan,2016,0,0.03407609
+Turbat,Balochistan,2016,0,0.0694081
+Gwadar,Balochistan,2016,0,0.019230176
+Panjgur,Balochistan,2016,0,0.045147464
+Chagai,Balochistan,2016,0,0.0023394066
+Nushki,Balochistan,2016,0,0.0024439425
+Kharan,Balochistan,2016,0,0.0034527078
+Washuk,Balochistan,2016,0,0.0024981569
+Awaran,Balochistan,2016,0,0.06578588
+Kech,Balochistan,2016,0,0.07287738
+Dera Bugti,Balochistan,2016,0,0.43092728
+Kohlu,Balochistan,2016,0,0.0016268953
+Sibi,Balochistan,2016,0,0.0745328
+Ziarat,Balochistan,2016,0,0.0017477451
+Pishin,Balochistan,2016,0,0.011014677
+Qilla Abdullah,Balochistan,2016,0,0.0019158873
+Qilla Saifullah,Balochistan,2016,0,0.00130155
+Loralai,Balochistan,2016,0,0.00922353
+Musakhel,Balochistan,2016,0,0.0067434213
+Barkhan,Balochistan,2016,0,0.009763768
+Harnai,Balochistan,2016,0,0.010151516
+Sherani,Balochistan,2016,0,0.0019613637
+Zhob,Balochistan,2016,0,0.0014341009
+Jhal Magsi,Balochistan,2016,0,0.8667294
+Khairpur Tamewali,Balochistan,2016,0,0.0040829377
+Mastung,Balochistan,2016,0,0.010339856
+Surab,Balochistan,2016,0,0.0033852775
+Lehri,Balochistan,2016,0,0.0944821
+Gilgit,GB,2016,0,0.2092913
+Skardu,GB,2016,0,0.018820604
+Hunza,GB,2016,0,0.14852677
+Nagar,GB,2016,0,0.024273206
+Ghanche,GB,2016,0,0.0226134
+Shigar,GB,2016,0,0.0027729191
+Kharmang,GB,2016,0,0.0020068705
+Roundu,GB,2016,0,0.04144633
+Tangir,GB,2016,0,0.009134433
+Darel,GB,2016,0,0.010060496
+Diamer,GB,2016,0,0.17312168
+Astore,GB,2016,0,0.1825848
+Ghizer,GB,2016,0,0.06283836
+Gupis Yasin,GB,2016,0,0.02793857
+Muzaffarabad,AJK,2016,0,0.20623834
+Mirpur,AJK,2016,0,0.061120838
+Bagh,AJK,2016,0,0.08678487
+Rawalakot,AJK,2016,0,0.0018804478
+Kotli,AJK,2016,0,0.0450724
+Neelum,AJK,2016,0,0.15625647
+Haveli,AJK,2016,0,0.0016580556
+Sudhnoti,AJK,2016,0,0.0014245395
+Hattian Bala,AJK,2016,0,0.12584563
+Jhelum Valley,AJK,2016,0,0.11849069
+Islamabad,ICT,2016,0,0.0015434127
+Lahore,Punjab,2017,1,0.7172406
+Multan,Punjab,2017,0,0.29977852
+Faisalabad,Punjab,2017,0,0.0060279854
+Rawalpindi,Punjab,2017,0,0.0019510095
+Gujranwala,Punjab,2017,1,0.23711751
+Sialkot,Punjab,2017,0,0.053243704
+Bahawalpur,Punjab,2017,0,0.28638265
+Rahim Yar Khan,Punjab,2017,0,0.33503744
+DG Khan,Punjab,2017,1,0.80289245
+Muzaffargarh,Punjab,2017,1,0.8470394
+Gujrat,Punjab,2017,0,0.054090865
+Sheikhupura,Punjab,2017,1,0.7742369
+Sargodha,Punjab,2017,0,0.03681631
+Jhang,Punjab,2017,0,0.247619
+Kasur,Punjab,2017,0,0.012967956
+Okara,Punjab,2017,0,0.0036113448
+Sahiwal,Punjab,2017,0,0.0025503885
+Pakpattan,Punjab,2017,0,0.007032137
+Bahawalnagar,Punjab,2017,0,0.052750967
+Vehari,Punjab,2017,0,0.19729966
+Lodhran,Punjab,2017,0,0.28441456
+Khanewal,Punjab,2017,0,0.093790755
+Chiniot,Punjab,2017,0,0.009678719
+Hafizabad,Punjab,2017,1,0.56431997
+Narowal,Punjab,2017,0,0.042602852
+Nankana Sahib,Punjab,2017,0,0.047867473
+Mandi Bahauddin,Punjab,2017,0,0.004425045
+Attock,Punjab,2017,0,0.03655859
+Chakwal,Punjab,2017,0,0.0018310656
+Jhelum,Punjab,2017,0,0.0044496427
+Khushab,Punjab,2017,0,0.031928215
+Bhakkar,Punjab,2017,0,0.115638725
+Layyah,Punjab,2017,1,0.5093741
+Toba Tek Singh,Punjab,2017,0,0.0017586615
+Dera Ghazi Khan,Punjab,2017,1,0.80289245
+Karachi Central,Sindh,2017,0,0.052831285
+Karachi East,Sindh,2017,0,0.024248773
+Karachi West,Sindh,2017,0,0.052831285
+Karachi South,Sindh,2017,0,0.028113965
+Malir,Sindh,2017,0,0.049312323
+Hyderabad,Sindh,2017,0,0.087006316
+Sukkur,Sindh,2017,1,0.51779276
+Larkana,Sindh,2017,0,0.3477207
+Thatta,Sindh,2017,0,0.24731386
+Dadu,Sindh,2017,0,0.1507496
+Jacobabad,Sindh,2017,0,0.50487363
+Kashmore,Sindh,2017,1,0.91754276
+Kamber,Sindh,2017,0,0.13163596
+Shikarpur,Sindh,2017,0,0.08690646
+Mirpur Khas,Sindh,2017,0,0.07620138
+Sanghar,Sindh,2017,0,0.15419766
+Nawabshah,Sindh,2017,0,0.46396717
+Naushahro Feroze,Sindh,2017,0,0.091360115
+Khairpur,Sindh,2017,0,0.36504185
+Ghotki,Sindh,2017,1,0.78247684
+Badin,Sindh,2017,0,0.08626347
+Tharparkar,Sindh,2017,0,0.038835097
+Umerkot,Sindh,2017,0,0.029050985
+Matiari,Sindh,2017,0,0.10336179
+Jamshoro,Sindh,2017,0,0.077823006
+Sujawal,Sindh,2017,0,0.096333385
+Tando Allahyar,Sindh,2017,0,0.0452815
+Tando Muhammad Khan,Sindh,2017,0,0.041381788
+Qambar Shahdadkot,Sindh,2017,0,0.0878665
+Peshawar,KPK,2017,0,0.02904523
+Swat,KPK,2017,1,0.7531639
+Nowshera,KPK,2017,1,0.88161784
+Charsadda,KPK,2017,1,0.8530664
+Dir Upper,KPK,2017,0,0.6467432
+Dir Lower,KPK,2017,0,0.562335
+Chitral,KPK,2017,0,0.5407258
+Kohistan,KPK,2017,0,0.33229834
+Tank,KPK,2017,0,0.07950954
+Dera Ismail Khan,KPK,2017,0,0.081077285
+Mardan,KPK,2017,1,0.8165991
+Abbottabad,KPK,2017,0,0.0031486496
+Haripur,KPK,2017,0,0.013415992
+Mansehra,KPK,2017,0,0.26474234
+Battagram,KPK,2017,0,0.3587006
+Shangla,KPK,2017,0,0.4449141
+Buner,KPK,2017,0,0.15066935
+Malakand,KPK,2017,0,0.37465388
+Hangu,KPK,2017,0,0.0037731938
+Karak,KPK,2017,0,0.0028014213
+Kohat,KPK,2017,0,0.0063449675
+Lakki Marwat,KPK,2017,0,0.14398776
+Bannu,KPK,2017,0,0.03376965
+Kurram,KPK,2017,0,0.0009181568
+Orakzai,KPK,2017,0,0.0011765542
+Khyber,KPK,2017,0,0.002154884
+Mohmand,KPK,2017,0,0.041158874
+Bajaur,KPK,2017,0,0.042214077
+South Waziristan,KPK,2017,0,0.0047934265
+North Waziristan,KPK,2017,0,0.0020543183
+Torghar,KPK,2017,0,0.2290534
+Kolai Pallas,KPK,2017,0,0.17665848
+Swabi,KPK,2017,1,0.7216361
+Tor Ghar,KPK,2017,0,0.0026696725
+Khyber Tribal,KPK,2017,0,0.0021413758
+Quetta,Balochistan,2017,0,0.013106504
+Naseerabad,Balochistan,2017,1,0.9575937
+Jaffarabad,Balochistan,2017,1,0.94144094
+Lasbela,Balochistan,2017,0,0.101671815
+Kalat,Balochistan,2017,0,0.06858102
+Khuzdar,Balochistan,2017,0,0.07319114
+Turbat,Balochistan,2017,0,0.068899274
+Gwadar,Balochistan,2017,0,0.018848043
+Panjgur,Balochistan,2017,0,0.024770616
+Chagai,Balochistan,2017,0,0.0041114013
+Nushki,Balochistan,2017,0,0.0046809963
+Kharan,Balochistan,2017,0,0.0045896745
+Washuk,Balochistan,2017,0,0.0017260202
+Awaran,Balochistan,2017,0,0.07917927
+Kech,Balochistan,2017,0,0.07007077
+Dera Bugti,Balochistan,2017,1,0.89333236
+Kohlu,Balochistan,2017,0,0.002361453
+Sibi,Balochistan,2017,0,0.10792596
+Ziarat,Balochistan,2017,0,0.0021075557
+Pishin,Balochistan,2017,0,0.044023447
+Qilla Abdullah,Balochistan,2017,0,0.0076379767
+Qilla Saifullah,Balochistan,2017,0,0.0026009008
+Loralai,Balochistan,2017,0,0.01556912
+Musakhel,Balochistan,2017,0,0.030755877
+Barkhan,Balochistan,2017,0,0.013485107
+Harnai,Balochistan,2017,0,0.014843114
+Sherani,Balochistan,2017,0,0.0027963559
+Zhob,Balochistan,2017,0,0.0032788648
+Jhal Magsi,Balochistan,2017,1,0.94412214
+Khairpur Tamewali,Balochistan,2017,0,0.0035131357
+Mastung,Balochistan,2017,0,0.013728458
+Surab,Balochistan,2017,0,0.003322919
+Lehri,Balochistan,2017,0,0.11724967
+Gilgit,GB,2017,0,0.40330878
+Skardu,GB,2017,0,0.033733804
+Hunza,GB,2017,0,0.47093928
+Nagar,GB,2017,0,0.06976962
+Ghanche,GB,2017,0,0.087303616
+Shigar,GB,2017,0,0.0047125686
+Kharmang,GB,2017,0,0.0136082405
+Roundu,GB,2017,0,0.18934958
+Tangir,GB,2017,0,0.0526695
+Darel,GB,2017,0,0.06003476
+Diamer,GB,2017,0,0.4395011
+Astore,GB,2017,0,0.23577112
+Ghizer,GB,2017,0,0.1841823
+Gupis Yasin,GB,2017,0,0.05375609
+Muzaffarabad,AJK,2017,0,0.30930832
+Mirpur,AJK,2017,0,0.06649203
+Bagh,AJK,2017,0,0.22561431
+Rawalakot,AJK,2017,0,0.0044352175
+Kotli,AJK,2017,0,0.057061546
+Neelum,AJK,2017,0,0.27487287
+Haveli,AJK,2017,0,0.004270667
+Sudhnoti,AJK,2017,0,0.0019399658
+Hattian Bala,AJK,2017,0,0.19180205
+Jhelum Valley,AJK,2017,0,0.25397176
+Islamabad,ICT,2017,0,0.0019510095
+Lahore,Punjab,2018,0,0.07528229
+Multan,Punjab,2018,0,0.10936599
+Faisalabad,Punjab,2018,0,0.009208374
+Rawalpindi,Punjab,2018,0,0.0021052072
+Gujranwala,Punjab,2018,0,0.081206955
+Sialkot,Punjab,2018,0,0.031269453
+Bahawalpur,Punjab,2018,0,0.15706313
+Rahim Yar Khan,Punjab,2018,0,0.2272577
+DG Khan,Punjab,2018,0,0.100115135
+Muzaffargarh,Punjab,2018,0,0.3436425
+Gujrat,Punjab,2018,0,0.031778716
+Sheikhupura,Punjab,2018,0,0.07353219
+Sargodha,Punjab,2018,0,0.0034625726
+Jhang,Punjab,2018,0,0.16300403
+Kasur,Punjab,2018,0,0.005002389
+Okara,Punjab,2018,0,0.0023689577
+Sahiwal,Punjab,2018,0,0.0011612661
+Pakpattan,Punjab,2018,0,0.0017273393
+Bahawalnagar,Punjab,2018,0,0.014798207
+Vehari,Punjab,2018,0,0.041292492
+Lodhran,Punjab,2018,0,0.15386096
+Khanewal,Punjab,2018,0,0.03363193
+Chiniot,Punjab,2018,0,0.010769877
+Hafizabad,Punjab,2018,0,0.111015804
+Narowal,Punjab,2018,0,0.038355008
+Nankana Sahib,Punjab,2018,0,0.0041113817
+Mandi Bahauddin,Punjab,2018,0,0.007691872
+Attock,Punjab,2018,0,0.0034674497
+Chakwal,Punjab,2018,0,0.002296491
+Jhelum,Punjab,2018,0,0.005013273
+Khushab,Punjab,2018,0,0.013610218
+Bhakkar,Punjab,2018,0,0.060150005
+Layyah,Punjab,2018,0,0.05674075
+Toba Tek Singh,Punjab,2018,0,0.0031726377
+Dera Ghazi Khan,Punjab,2018,0,0.100115135
+Karachi Central,Sindh,2018,0,0.03164975
+Karachi East,Sindh,2018,0,0.011739073
+Karachi West,Sindh,2018,0,0.033698205
+Karachi South,Sindh,2018,0,0.012086138
+Malir,Sindh,2018,0,0.017532261
+Hyderabad,Sindh,2018,0,0.031862017
+Sukkur,Sindh,2018,0,0.16963339
+Larkana,Sindh,2018,0,0.09951672
+Thatta,Sindh,2018,0,0.021100953
+Dadu,Sindh,2018,0,0.25281313
+Jacobabad,Sindh,2018,0,0.14162971
+Kashmore,Sindh,2018,0,0.14329593
+Kamber,Sindh,2018,0,0.06636743
+Shikarpur,Sindh,2018,0,0.06872818
+Mirpur Khas,Sindh,2018,0,0.01798616
+Sanghar,Sindh,2018,0,0.061839294
+Nawabshah,Sindh,2018,0,0.1385578
+Naushahro Feroze,Sindh,2018,0,0.046724807
+Khairpur,Sindh,2018,0,0.09621357
+Ghotki,Sindh,2018,0,0.11051298
+Badin,Sindh,2018,0,0.014270292
+Tharparkar,Sindh,2018,0,0.012008154
+Umerkot,Sindh,2018,0,0.004955359
+Matiari,Sindh,2018,0,0.022113722
+Jamshoro,Sindh,2018,0,0.02630553
+Sujawal,Sindh,2018,0,0.014234953
+Tando Allahyar,Sindh,2018,0,0.011875425
+Tando Muhammad Khan,Sindh,2018,0,0.008595862
+Qambar Shahdadkot,Sindh,2018,0,0.058969013
+Peshawar,KPK,2018,0,0.06009827
+Swat,KPK,2018,1,0.96170616
+Nowshera,KPK,2018,0,0.71825397
+Charsadda,KPK,2018,0,0.50595826
+Dir Upper,KPK,2018,1,0.88631237
+Dir Lower,KPK,2018,1,0.8459589
+Chitral,KPK,2018,1,0.88672495
+Kohistan,KPK,2018,1,0.93190324
+Tank,KPK,2018,0,0.031110222
+Dera Ismail Khan,KPK,2018,0,0.036317166
+Mardan,KPK,2018,0,0.2565557
+Abbottabad,KPK,2018,0,0.002927226
+Haripur,KPK,2018,0,0.003802998
+Mansehra,KPK,2018,1,0.86570156
+Battagram,KPK,2018,1,0.8998346
+Shangla,KPK,2018,1,0.9350405
+Buner,KPK,2018,0,0.08716627
+Malakand,KPK,2018,0,0.538946
+Hangu,KPK,2018,0,0.0031213125
+Karak,KPK,2018,0,0.004420346
+Kohat,KPK,2018,0,0.004117216
+Lakki Marwat,KPK,2018,0,0.13218786
+Bannu,KPK,2018,0,0.014884835
+Kurram,KPK,2018,0,0.0017521373
+Orakzai,KPK,2018,0,0.0030452514
+Khyber,KPK,2018,0,0.004788025
+Mohmand,KPK,2018,0,0.018660614
+Bajaur,KPK,2018,0,0.020705141
+South Waziristan,KPK,2018,0,0.004769895
+North Waziristan,KPK,2018,0,0.0020461017
+Torghar,KPK,2018,1,0.8849495
+Kolai Pallas,KPK,2018,0,0.7269873
+Swabi,KPK,2018,0,0.1400211
+Tor Ghar,KPK,2018,0,0.008387792
+Khyber Tribal,KPK,2018,0,0.0049810736
+Quetta,Balochistan,2018,0,0.017490365
+Naseerabad,Balochistan,2018,1,0.9025869
+Jaffarabad,Balochistan,2018,1,0.7175965
+Lasbela,Balochistan,2018,1,0.66455996
+Kalat,Balochistan,2018,1,0.0827347
+Khuzdar,Balochistan,2018,1,0.05098924
+Turbat,Balochistan,2018,1,0.65365857
+Gwadar,Balochistan,2018,1,0.085810654
+Panjgur,Balochistan,2018,1,0.31671688
+Chagai,Balochistan,2018,0,0.0050341524
+Nushki,Balochistan,2018,0,0.00275077
+Kharan,Balochistan,2018,0,0.002668973
+Washuk,Balochistan,2018,0,0.016280325
+Awaran,Balochistan,2018,1,0.7657902
+Kech,Balochistan,2018,0,0.6455018
+Dera Bugti,Balochistan,2018,0,0.35883403
+Kohlu,Balochistan,2018,0,0.0029749474
+Sibi,Balochistan,2018,0,0.051674727
+Ziarat,Balochistan,2018,0,0.0022986662
+Pishin,Balochistan,2018,0,0.009880746
+Qilla Abdullah,Balochistan,2018,0,0.0016869081
+Qilla Saifullah,Balochistan,2018,0,0.0022671917
+Loralai,Balochistan,2018,0,0.011280472
+Musakhel,Balochistan,2018,0,0.024446158
+Barkhan,Balochistan,2018,0,0.017574552
+Harnai,Balochistan,2018,0,0.010268263
+Sherani,Balochistan,2018,0,0.0025767868
+Zhob,Balochistan,2018,0,0.0021277354
+Jhal Magsi,Balochistan,2018,0,0.21621844
+Khairpur Tamewali,Balochistan,2018,0,0.0018056124
+Mastung,Balochistan,2018,0,0.017752131
+Surab,Balochistan,2018,0,0.002926594
+Lehri,Balochistan,2018,0,0.056688573
+Gilgit,GB,2018,1,0.8470127
+Skardu,GB,2018,0,0.08680709
+Hunza,GB,2018,1,0.79029644
+Nagar,GB,2018,0,0.258903
+Ghanche,GB,2018,0,0.15480791
+Shigar,GB,2018,0,0.009860759
+Kharmang,GB,2018,0,0.01228652
+Roundu,GB,2018,0,0.3363225
+Tangir,GB,2018,0,0.05328469
+Darel,GB,2018,0,0.06259076
+Diamer,GB,2018,1,0.862031
+Astore,GB,2018,0,0.47250175
+Ghizer,GB,2018,0,0.5465003
+Gupis Yasin,GB,2018,0,0.21776009
+Muzaffarabad,AJK,2018,0,0.52754825
+Mirpur,AJK,2018,0,0.07433922
+Bagh,AJK,2018,0,0.19448896
+Rawalakot,AJK,2018,0,0.0043229307
+Kotli,AJK,2018,0,0.06871391
+Neelum,AJK,2018,0,0.46589276
+Haveli,AJK,2018,0,0.0030976892
+Sudhnoti,AJK,2018,0,0.0033962699
+Hattian Bala,AJK,2018,0,0.29259545
+Jhelum Valley,AJK,2018,0,0.17130794
+Islamabad,ICT,2018,0,0.0021052072
+Lahore,Punjab,2019,0,0.101257734
+Multan,Punjab,2019,0,0.12963383
+Faisalabad,Punjab,2019,0,0.0019165322
+Rawalpindi,Punjab,2019,0,0.001251588
+Gujranwala,Punjab,2019,0,0.05913811
+Sialkot,Punjab,2019,0,0.012782905
+Bahawalpur,Punjab,2019,0,0.17866464
+Rahim Yar Khan,Punjab,2019,0,0.6932477
+DG Khan,Punjab,2019,0,0.3260661
+Muzaffargarh,Punjab,2019,0,0.53455037
+Gujrat,Punjab,2019,0,0.012772895
+Sheikhupura,Punjab,2019,0,0.111556
+Sargodha,Punjab,2019,0,0.010507191
+Jhang,Punjab,2019,0,0.112476654
+Kasur,Punjab,2019,0,0.0046606213
+Okara,Punjab,2019,0,0.0017256653
+Sahiwal,Punjab,2019,0,0.00082136627
+Pakpattan,Punjab,2019,0,0.0022760634
+Bahawalnagar,Punjab,2019,0,0.017608555
+Vehari,Punjab,2019,0,0.07307331
+Lodhran,Punjab,2019,0,0.1681212
+Khanewal,Punjab,2019,0,0.06308695
+Chiniot,Punjab,2019,0,0.0027681394
+Hafizabad,Punjab,2019,0,0.03611073
+Narowal,Punjab,2019,0,0.016201679
+Nankana Sahib,Punjab,2019,0,0.0033602908
+Mandi Bahauddin,Punjab,2019,0,0.0030987202
+Attock,Punjab,2019,0,0.0069315117
+Chakwal,Punjab,2019,0,0.0013951017
+Jhelum,Punjab,2019,0,0.004640491
+Khushab,Punjab,2019,0,0.0105775725
+Bhakkar,Punjab,2019,0,0.17679523
+Layyah,Punjab,2019,0,0.17200549
+Toba Tek Singh,Punjab,2019,0,0.0018495172
+Dera Ghazi Khan,Punjab,2019,0,0.3260661
+Karachi Central,Sindh,2019,0,0.1547567
+Karachi East,Sindh,2019,0,0.039298464
+Karachi West,Sindh,2019,0,0.1547567
+Karachi South,Sindh,2019,0,0.042891007
+Malir,Sindh,2019,0,0.11570775
+Hyderabad,Sindh,2019,0,0.14084382
+Sukkur,Sindh,2019,1,0.8957663
+Larkana,Sindh,2019,0,0.6332021
+Thatta,Sindh,2019,0,0.25491455
+Dadu,Sindh,2019,1,0.86287344
+Jacobabad,Sindh,2019,1,0.73368657
+Kashmore,Sindh,2019,1,0.8422627
+Kamber,Sindh,2019,0,0.4096414
+Shikarpur,Sindh,2019,0,0.12643808
+Mirpur Khas,Sindh,2019,0,0.10490975
+Sanghar,Sindh,2019,0,0.42727262
+Nawabshah,Sindh,2019,1,0.9481719
+Naushahro Feroze,Sindh,2019,0,0.084692806
+Khairpur,Sindh,2019,1,0.85029
+Ghotki,Sindh,2019,0,0.4746943
+Badin,Sindh,2019,0,0.10137765
+Tharparkar,Sindh,2019,0,0.04293902
+Umerkot,Sindh,2019,0,0.012848105
+Matiari,Sindh,2019,0,0.13281065
+Jamshoro,Sindh,2019,0,0.12644374
+Sujawal,Sindh,2019,0,0.09529601
+Tando Allahyar,Sindh,2019,0,0.035510715
+Tando Muhammad Khan,Sindh,2019,0,0.056214854
+Qambar Shahdadkot,Sindh,2019,0,0.26354662
+Peshawar,KPK,2019,0,0.008780615
+Swat,KPK,2019,0,0.32230806
+Nowshera,KPK,2019,0,0.26768354
+Charsadda,KPK,2019,0,0.2304411
+Dir Upper,KPK,2019,0,0.15325503
+Dir Lower,KPK,2019,0,0.22616744
+Chitral,KPK,2019,0,0.25981665
+Kohistan,KPK,2019,0,0.14060247
+Tank,KPK,2019,1,0.6968734
+Dera Ismail Khan,KPK,2019,1,0.71197325
+Mardan,KPK,2019,0,0.20742536
+Abbottabad,KPK,2019,0,0.0016830411
+Haripur,KPK,2019,0,0.006207452
+Mansehra,KPK,2019,0,0.14981963
+Battagram,KPK,2019,0,0.2639296
+Shangla,KPK,2019,0,0.15312958
+Buner,KPK,2019,0,0.044355392
+Malakand,KPK,2019,0,0.11501572
+Hangu,KPK,2019,0,0.0021285708
+Karak,KPK,2019,0,0.0030688492
+Kohat,KPK,2019,0,0.0023128684
+Lakki Marwat,KPK,2019,1,0.21181689
+Bannu,KPK,2019,0,0.022714624
+Kurram,KPK,2019,0,0.0012556285
+Orakzai,KPK,2019,0,0.0014561123
+Khyber,KPK,2019,0,0.0014435917
+Mohmand,KPK,2019,0,0.007814243
+Bajaur,KPK,2019,0,0.0073967697
+South Waziristan,KPK,2019,0,0.001220972
+North Waziristan,KPK,2019,0,0.0027138572
+Torghar,KPK,2019,0,0.07189653
+Kolai Pallas,KPK,2019,0,0.067129575
+Swabi,KPK,2019,0,0.16587834
+Tor Ghar,KPK,2019,0,0.0016935895
+Khyber Tribal,KPK,2019,0,0.0014855412
+Quetta,Balochistan,2019,0,0.0075233127
+Naseerabad,Balochistan,2019,1,0.9179924
+Jaffarabad,Balochistan,2019,1,0.9308181
+Lasbela,Balochistan,2019,1,0.65459424
+Kalat,Balochistan,2019,0,0.13736552
+Khuzdar,Balochistan,2019,0,0.094704255
+Turbat,Balochistan,2019,0,0.037918407
+Gwadar,Balochistan,2019,0,0.0527734
+Panjgur,Balochistan,2019,0,0.06943348
+Chagai,Balochistan,2019,0,0.003082722
+Nushki,Balochistan,2019,0,0.002426787
+Kharan,Balochistan,2019,0,0.004023053
+Washuk,Balochistan,2019,0,0.0035482107
+Awaran,Balochistan,2019,0,0.10075553
+Kech,Balochistan,2019,0,0.036632545
+Dera Bugti,Balochistan,2019,1,0.5139673
+Kohlu,Balochistan,2019,0,0.0008254557
+Sibi,Balochistan,2019,0,0.053351358
+Ziarat,Balochistan,2019,0,0.000943564
+Pishin,Balochistan,2019,0,0.03796264
+Qilla Abdullah,Balochistan,2019,0,0.0052629416
+Qilla Saifullah,Balochistan,2019,0,0.0013077963
+Loralai,Balochistan,2019,0,0.0049787797
+Musakhel,Balochistan,2019,0,0.011575284
+Barkhan,Balochistan,2019,0,0.005032648
+Harnai,Balochistan,2019,0,0.0050334646
+Sherani,Balochistan,2019,0,0.0014653102
+Zhob,Balochistan,2019,0,0.0021704598
+Jhal Magsi,Balochistan,2019,1,0.8741326
+Khairpur Tamewali,Balochistan,2019,0,0.002562991
+Mastung,Balochistan,2019,0,0.008794471
+Surab,Balochistan,2019,0,0.0037788334
+Lehri,Balochistan,2019,1,0.09473625
+Gilgit,GB,2019,0,0.29715097
+Skardu,GB,2019,0,0.01650761
+Hunza,GB,2019,0,0.28953162
+Nagar,GB,2019,0,0.07184517
+Ghanche,GB,2019,0,0.020409022
+Shigar,GB,2019,0,0.0024803942
+Kharmang,GB,2019,0,0.0028419327
+Roundu,GB,2019,0,0.07225644
+Tangir,GB,2019,0,0.023568429
+Darel,GB,2019,0,0.026980132
+Diamer,GB,2019,0,0.25645667
+Astore,GB,2019,0,0.12078646
+Ghizer,GB,2019,0,0.23316738
+Gupis Yasin,GB,2019,0,0.09851274
+Muzaffarabad,AJK,2019,0,0.15519698
+Mirpur,AJK,2019,0,0.04306484
+Bagh,AJK,2019,0,0.074065685
+Rawalakot,AJK,2019,0,0.0015647962
+Kotli,AJK,2019,0,0.03556419
+Neelum,AJK,2019,0,0.10778492
+Haveli,AJK,2019,0,0.0013948127
+Sudhnoti,AJK,2019,0,0.0011477749
+Hattian Bala,AJK,2019,0,0.08125772
+Jhelum Valley,AJK,2019,0,0.0785726
+Islamabad,ICT,2019,0,0.001251588
+Lahore,Punjab,2020,0,0.07705058
+Multan,Punjab,2020,0,0.7112332
+Faisalabad,Punjab,2020,0,0.0037376676
+Rawalpindi,Punjab,2020,0,0.008045398
+Gujranwala,Punjab,2020,0,0.07892484
+Sialkot,Punjab,2020,0,0.03188255
+Bahawalpur,Punjab,2020,0,0.75004363
+Rahim Yar Khan,Punjab,2020,1,0.9599864
+DG Khan,Punjab,2020,1,0.94610643
+Muzaffargarh,Punjab,2020,1,0.92834026
+Gujrat,Punjab,2020,0,0.031858068
+Sheikhupura,Punjab,2020,0,0.067078814
+Sargodha,Punjab,2020,0,0.010402584
+Jhang,Punjab,2020,0,0.3799584
+Kasur,Punjab,2020,0,0.00356481
+Okara,Punjab,2020,0,0.0030543837
+Sahiwal,Punjab,2020,0,0.0032904136
+Pakpattan,Punjab,2020,0,0.006706391
+Bahawalnagar,Punjab,2020,0,0.037552334
+Vehari,Punjab,2020,0,0.10272944
+Lodhran,Punjab,2020,1,0.76499355
+Khanewal,Punjab,2020,0,0.14471161
+Chiniot,Punjab,2020,0,0.0071177785
+Hafizabad,Punjab,2020,0,0.041579254
+Narowal,Punjab,2020,0,0.022551782
+Nankana Sahib,Punjab,2020,0,0.0034442537
+Mandi Bahauddin,Punjab,2020,0,0.0030453831
+Attock,Punjab,2020,0,0.007105287
+Chakwal,Punjab,2020,0,0.0091483705
+Jhelum,Punjab,2020,0,0.011272693
+Khushab,Punjab,2020,0,0.015981385
+Bhakkar,Punjab,2020,0,0.86236596
+Layyah,Punjab,2020,0,0.67297626
+Toba Tek Singh,Punjab,2020,0,0.004131266
+Dera Ghazi Khan,Punjab,2020,1,0.94610643
+Karachi Central,Sindh,2020,0,0.23186792
+Karachi East,Sindh,2020,0,0.05848223
+Karachi West,Sindh,2020,0,0.23186792
+Karachi South,Sindh,2020,0,0.060605023
+Malir,Sindh,2020,0,0.27016643
+Hyderabad,Sindh,2020,1,0.9678506
+Sukkur,Sindh,2020,1,0.98716146
+Larkana,Sindh,2020,1,0.9799888
+Thatta,Sindh,2020,1,0.9715327
+Dadu,Sindh,2020,1,0.98590463
+Jacobabad,Sindh,2020,1,0.972212
+Kashmore,Sindh,2020,1,0.971332
+Kamber,Sindh,2020,1,0.9721701
+Shikarpur,Sindh,2020,0,0.71875113
+Mirpur Khas,Sindh,2020,1,0.9643751
+Sanghar,Sindh,2020,1,0.97838527
+Nawabshah,Sindh,2020,1,0.98876476
+Naushahro Feroze,Sindh,2020,0,0.4934913
+Khairpur,Sindh,2020,1,0.9849502
+Ghotki,Sindh,2020,1,0.9446604
+Badin,Sindh,2020,1,0.9219832
+Tharparkar,Sindh,2020,0,0.078081824
+Umerkot,Sindh,2020,0,0.08697931
+Matiari,Sindh,2020,1,0.9674818
+Jamshoro,Sindh,2020,1,0.9680589
+Sujawal,Sindh,2020,1,0.92836654
+Tando Allahyar,Sindh,2020,1,0.85310334
+Tando Muhammad Khan,Sindh,2020,0,0.32313898
+Qambar Shahdadkot,Sindh,2020,1,0.9325862
+Peshawar,KPK,2020,0,0.04427418
+Swat,KPK,2020,1,0.7815628
+Nowshera,KPK,2020,1,0.62822926
+Charsadda,KPK,2020,0,0.52422845
+Dir Upper,KPK,2020,0,0.68881214
+Dir Lower,KPK,2020,0,0.6300995
+Chitral,KPK,2020,0,0.7154544
+Kohistan,KPK,2020,0,0.37931943
+Tank,KPK,2020,1,0.81814474
+Dera Ismail Khan,KPK,2020,1,0.8108227
+Mardan,KPK,2020,0,0.16245602
+Abbottabad,KPK,2020,0,0.003933221
+Haripur,KPK,2020,0,0.0073836385
+Mansehra,KPK,2020,0,0.14670846
+Battagram,KPK,2020,0,0.1662723
+Shangla,KPK,2020,0,0.5566115
+Buner,KPK,2020,0,0.023966324
+Malakand,KPK,2020,0,0.11562915
+Hangu,KPK,2020,0,0.0016071843
+Karak,KPK,2020,0,0.002697424
+Kohat,KPK,2020,0,0.0044288426
+Lakki Marwat,KPK,2020,1,0.6885581
+Bannu,KPK,2020,0,0.023938086
+Kurram,KPK,2020,0,0.0033588586
+Orakzai,KPK,2020,0,0.002022191
+Khyber,KPK,2020,0,0.0016483605
+Mohmand,KPK,2020,0,0.018247174
+Bajaur,KPK,2020,0,0.022417555
+South Waziristan,KPK,2020,0,0.005661886
+North Waziristan,KPK,2020,0,0.0022032766
+Torghar,KPK,2020,0,0.37949878
+Kolai Pallas,KPK,2020,0,0.30906364
+Swabi,KPK,2020,0,0.12234672
+Tor Ghar,KPK,2020,0,0.004542984
+Khyber Tribal,KPK,2020,0,0.00150788
+Quetta,Balochistan,2020,0,0.025143655
+Naseerabad,Balochistan,2020,1,0.97804546
+Jaffarabad,Balochistan,2020,1,0.98627174
+Lasbela,Balochistan,2020,1,0.9642878
+Kalat,Balochistan,2020,1,0.85692555
+Khuzdar,Balochistan,2020,1,0.48219413
+Turbat,Balochistan,2020,0,0.6948943
+Gwadar,Balochistan,2020,0,0.17550178
+Panjgur,Balochistan,2020,0,0.28031978
+Chagai,Balochistan,2020,0,0.0054023964
+Nushki,Balochistan,2020,0,0.004437214
+Kharan,Balochistan,2020,0,0.0057604513
+Washuk,Balochistan,2020,0,0.0067745233
+Awaran,Balochistan,2020,1,0.79390293
+Kech,Balochistan,2020,1,0.73744744
+Dera Bugti,Balochistan,2020,1,0.9110776
+Kohlu,Balochistan,2020,0,0.00861486
+Sibi,Balochistan,2020,0,0.16302097
+Ziarat,Balochistan,2020,0,0.0056258244
+Pishin,Balochistan,2020,0,0.044154253
+Qilla Abdullah,Balochistan,2020,0,0.005936289
+Qilla Saifullah,Balochistan,2020,0,0.0074671083
+Loralai,Balochistan,2020,0,0.07882159
+Musakhel,Balochistan,2020,0,0.16615963
+Barkhan,Balochistan,2020,0,0.089123875
+Harnai,Balochistan,2020,0,0.112605534
+Sherani,Balochistan,2020,0,0.0061619417
+Zhob,Balochistan,2020,0,0.0077124224
+Jhal Magsi,Balochistan,2020,1,0.98186696
+Khairpur Tamewali,Balochistan,2020,0,0.005167079
+Mastung,Balochistan,2020,0,0.027661594
+Surab,Balochistan,2020,0,0.009713388
+Lehri,Balochistan,2020,0,0.53581935
+Gilgit,GB,2020,0,0.3743864
+Skardu,GB,2020,0,0.051579833
+Hunza,GB,2020,0,0.31261048
+Nagar,GB,2020,0,0.06824591
+Ghanche,GB,2020,0,0.036650304
+Shigar,GB,2020,0,0.007167249
+Kharmang,GB,2020,0,0.0064912545
+Roundu,GB,2020,0,0.19650547
+Tangir,GB,2020,0,0.0350842
+Darel,GB,2020,0,0.03649493
+Diamer,GB,2020,0,0.75290835
+Astore,GB,2020,0,0.532479
+Ghizer,GB,2020,0,0.15114392
+Gupis Yasin,GB,2020,0,0.02257999
+Muzaffarabad,AJK,2020,0,0.24451223
+Mirpur,AJK,2020,0,0.09855097
+Bagh,AJK,2020,0,0.12407751
+Rawalakot,AJK,2020,0,0.0020026842
+Kotli,AJK,2020,0,0.11210354
+Neelum,AJK,2020,0,0.23352689
+Haveli,AJK,2020,0,0.0018252861
+Sudhnoti,AJK,2020,0,0.0061716936
+Hattian Bala,AJK,2020,0,0.16921042
+Jhelum Valley,AJK,2020,0,0.092188135
+Islamabad,ICT,2020,0,0.008045398
+Lahore,Punjab,2021,0,0.07188145
+Multan,Punjab,2021,0,0.26534024
+Faisalabad,Punjab,2021,0,0.003015232
+Rawalpindi,Punjab,2021,0,0.00355711
+Gujranwala,Punjab,2021,0,0.0621568
+Sialkot,Punjab,2021,0,0.029119728
+Bahawalpur,Punjab,2021,0,0.30821854
+Rahim Yar Khan,Punjab,2021,0,0.13120762
+DG Khan,Punjab,2021,0,0.4367566
+Muzaffargarh,Punjab,2021,0,0.5996372
+Gujrat,Punjab,2021,0,0.029097302
+Sheikhupura,Punjab,2021,0,0.11428622
+Sargodha,Punjab,2021,0,0.0045878496
+Jhang,Punjab,2021,0,0.0907929
+Kasur,Punjab,2021,0,0.009854717
+Okara,Punjab,2021,0,0.003278391
+Sahiwal,Punjab,2021,0,0.0025057613
+Pakpattan,Punjab,2021,0,0.0052899406
+Bahawalnagar,Punjab,2021,0,0.016097747
+Vehari,Punjab,2021,0,0.07110946
+Lodhran,Punjab,2021,0,0.30691272
+Khanewal,Punjab,2021,0,0.108433634
+Chiniot,Punjab,2021,0,0.0059681535
+Hafizabad,Punjab,2021,0,0.036383763
+Narowal,Punjab,2021,0,0.02955232
+Nankana Sahib,Punjab,2021,0,0.005088035
+Mandi Bahauddin,Punjab,2021,0,0.0036104925
+Attock,Punjab,2021,0,0.0036520825
+Chakwal,Punjab,2021,0,0.0028704212
+Jhelum,Punjab,2021,0,0.0039721187
+Khushab,Punjab,2021,0,0.0032102207
+Bhakkar,Punjab,2021,0,0.092029035
+Layyah,Punjab,2021,0,0.3154959
+Toba Tek Singh,Punjab,2021,0,0.0016299326
+Dera Ghazi Khan,Punjab,2021,0,0.4367566
+Karachi Central,Sindh,2021,0,0.09465696
+Karachi East,Sindh,2021,0,0.019449744
+Karachi West,Sindh,2021,0,0.09465696
+Karachi South,Sindh,2021,0,0.025029972
+Malir,Sindh,2021,0,0.08571675
+Hyderabad,Sindh,2021,0,0.71941316
+Sukkur,Sindh,2021,0,0.39253858
+Larkana,Sindh,2021,0,0.22414942
+Thatta,Sindh,2021,0,0.47771204
+Dadu,Sindh,2021,0,0.13821115
+Jacobabad,Sindh,2021,0,0.25411427
+Kashmore,Sindh,2021,0,0.38620245
+Kamber,Sindh,2021,0,0.19339652
+Shikarpur,Sindh,2021,0,0.05200984
+Mirpur Khas,Sindh,2021,0,0.65905255
+Sanghar,Sindh,2021,0,0.30589494
+Nawabshah,Sindh,2021,0,0.4441781
+Naushahro Feroze,Sindh,2021,0,0.042554848
+Khairpur,Sindh,2021,0,0.32169744
+Ghotki,Sindh,2021,0,0.21210542
+Badin,Sindh,2021,0,0.17103025
+Tharparkar,Sindh,2021,0,0.04350467
+Umerkot,Sindh,2021,0,0.020158758
+Matiari,Sindh,2021,0,0.70333713
+Jamshoro,Sindh,2021,0,0.70522296
+Sujawal,Sindh,2021,0,0.16352025
+Tando Allahyar,Sindh,2021,0,0.33043343
+Tando Muhammad Khan,Sindh,2021,0,0.10169845
+Qambar Shahdadkot,Sindh,2021,0,0.119905226
+Peshawar,KPK,2021,0,0.090502314
+Swat,KPK,2021,1,0.9807082
+Nowshera,KPK,2021,0,0.60291195
+Charsadda,KPK,2021,0,0.5226434
+Dir Upper,KPK,2021,1,0.8881877
+Dir Lower,KPK,2021,1,0.94414186
+Chitral,KPK,2021,1,0.8474747
+Kohistan,KPK,2021,1,0.96505696
+Tank,KPK,2021,0,0.41855204
+Dera Ismail Khan,KPK,2021,0,0.39859238
+Mardan,KPK,2021,0,0.13779989
+Abbottabad,KPK,2021,0,0.0026174097
+Haripur,KPK,2021,0,0.0031578704
+Mansehra,KPK,2021,1,0.9493862
+Battagram,KPK,2021,1,0.94699556
+Shangla,KPK,2021,1,0.9628968
+Buner,KPK,2021,0,0.094929114
+Malakand,KPK,2021,1,0.91839653
+Hangu,KPK,2021,0,0.0030014163
+Karak,KPK,2021,0,0.0064183674
+Kohat,KPK,2021,0,0.007082298
+Lakki Marwat,KPK,2021,0,0.1770698
+Bannu,KPK,2021,0,0.08393857
+Kurram,KPK,2021,0,0.007742602
+Orakzai,KPK,2021,0,0.0034573672
+Khyber,KPK,2021,0,0.0029168245
+Mohmand,KPK,2021,0,0.04396339
+Bajaur,KPK,2021,0,0.07944238
+South Waziristan,KPK,2021,0,0.00674683
+North Waziristan,KPK,2021,0,0.014188051
+Torghar,KPK,2021,1,0.95739925
+Kolai Pallas,KPK,2021,1,0.93762326
+Swabi,KPK,2021,0,0.06132969
+Tor Ghar,KPK,2021,0,0.03612372
+Khyber Tribal,KPK,2021,0,0.0029200965
+Quetta,Balochistan,2021,0,0.04876734
+Naseerabad,Balochistan,2021,0,0.7176036
+Jaffarabad,Balochistan,2021,0,0.49733648
+Lasbela,Balochistan,2021,0,0.10279565
+Kalat,Balochistan,2021,0,0.07903942
+Khuzdar,Balochistan,2021,0,0.053432938
+Turbat,Balochistan,2021,0,0.28511754
+Gwadar,Balochistan,2021,0,0.088527516
+Panjgur,Balochistan,2021,0,0.109480515
+Chagai,Balochistan,2021,0,0.009250245
+Nushki,Balochistan,2021,0,0.0032347776
+Kharan,Balochistan,2021,0,0.005735571
+Washuk,Balochistan,2021,0,0.0062468983
+Awaran,Balochistan,2021,0,0.26335803
+Kech,Balochistan,2021,0,0.29594007
+Dera Bugti,Balochistan,2021,0,0.35344788
+Kohlu,Balochistan,2021,0,0.0029014149
+Sibi,Balochistan,2021,0,0.11741244
+Ziarat,Balochistan,2021,0,0.0030440022
+Pishin,Balochistan,2021,0,0.0782044
+Qilla Abdullah,Balochistan,2021,0,0.0066827363
+Qilla Saifullah,Balochistan,2021,0,0.0036928407
+Loralai,Balochistan,2021,0,0.043679927
+Musakhel,Balochistan,2021,0,0.0329359
+Barkhan,Balochistan,2021,0,0.024862917
+Harnai,Balochistan,2021,0,0.041902132
+Sherani,Balochistan,2021,0,0.005792929
+Zhob,Balochistan,2021,0,0.0068935477
+Jhal Magsi,Balochistan,2021,0,0.5116468
+Khairpur Tamewali,Balochistan,2021,0,0.005554137
+Mastung,Balochistan,2021,0,0.052488472
+Surab,Balochistan,2021,0,0.004415124
+Lehri,Balochistan,2021,0,0.2578201
+Gilgit,GB,2021,1,0.79713917
+Skardu,GB,2021,1,0.46749964
+Hunza,GB,2021,1,0.5852134
+Nagar,GB,2021,0,0.2588808
+Ghanche,GB,2021,1,0.058661424
+Shigar,GB,2021,0,0.08829363
+Kharmang,GB,2021,0,0.029902803
+Roundu,GB,2021,0,0.32837144
+Tangir,GB,2021,0,0.08753826
+Darel,GB,2021,0,0.10013253
+Diamer,GB,2021,1,0.9363526
+Astore,GB,2021,1,0.7036914
+Ghizer,GB,2021,0,0.32908037
+Gupis Yasin,GB,2021,0,0.13601877
+Muzaffarabad,AJK,2021,1,0.9354205
+Mirpur,AJK,2021,0,0.049611535
+Bagh,AJK,2021,1,0.20503275
+Rawalakot,AJK,2021,0,0.0024277372
+Kotli,AJK,2021,0,0.0443215
+Neelum,AJK,2021,1,0.93776304
+Haveli,AJK,2021,0,0.0021317361
+Sudhnoti,AJK,2021,0,0.0036290179
+Hattian Bala,AJK,2021,1,0.9140531
+Jhelum Valley,AJK,2021,1,0.8063975
+Islamabad,ICT,2021,0,0.00355711
+Lahore,Punjab,2022,0,0.5816399
+Multan,Punjab,2022,1,0.99498415
+Faisalabad,Punjab,2022,0,0.008265545
+Rawalpindi,Punjab,2022,0,0.005281006
+Gujranwala,Punjab,2022,0,0.26780084
+Sialkot,Punjab,2022,0,0.069353
+Bahawalpur,Punjab,2022,1,0.99417514
+Rahim Yar Khan,Punjab,2022,1,0.99794966
+DG Khan,Punjab,2022,1,0.9952354
+Muzaffargarh,Punjab,2022,1,0.9949772
+Gujrat,Punjab,2022,0,0.06930181
+Sheikhupura,Punjab,2022,0,0.44385752
+Sargodha,Punjab,2022,0,0.00933934
+Jhang,Punjab,2022,1,0.94804895
+Kasur,Punjab,2022,0,0.0106347855
+Okara,Punjab,2022,0,0.010603494
+Sahiwal,Punjab,2022,0,0.01359249
+Pakpattan,Punjab,2022,0,0.046066154
+Bahawalnagar,Punjab,2022,1,0.871943
+Vehari,Punjab,2022,1,0.95679134
+Lodhran,Punjab,2022,1,0.99427986
+Khanewal,Punjab,2022,1,0.97750914
+Chiniot,Punjab,2022,0,0.024299575
+Hafizabad,Punjab,2022,0,0.2859731
+Narowal,Punjab,2022,0,0.09082379
+Nankana Sahib,Punjab,2022,0,0.009894308
+Mandi Bahauddin,Punjab,2022,0,0.008018648
+Attock,Punjab,2022,0,0.005541562
+Chakwal,Punjab,2022,0,0.007165421
+Jhelum,Punjab,2022,0,0.0083822245
+Khushab,Punjab,2022,0,0.011790559
+Bhakkar,Punjab,2022,1,0.98020464
+Layyah,Punjab,2022,1,0.9800183
+Toba Tek Singh,Punjab,2022,0,0.009844914
+Dera Ghazi Khan,Punjab,2022,1,0.9952354
+Karachi Central,Sindh,2022,1,0.9931838
+Karachi East,Sindh,2022,1,0.98645824
+Karachi West,Sindh,2022,1,0.9933606
+Karachi South,Sindh,2022,1,0.9859343
+Malir,Sindh,2022,1,0.99076754
+Hyderabad,Sindh,2022,1,0.9964412
+Sukkur,Sindh,2022,1,0.9977301
+Larkana,Sindh,2022,1,0.99812347
+Thatta,Sindh,2022,1,0.9953955
+Dadu,Sindh,2022,1,0.9985638
+Jacobabad,Sindh,2022,1,0.9913224
+Kashmore,Sindh,2022,1,0.9981673
+Kamber,Sindh,2022,1,0.9979335
+Shikarpur,Sindh,2022,1,0.9932319
+Mirpur Khas,Sindh,2022,1,0.99620444
+Sanghar,Sindh,2022,1,0.99741495
+Nawabshah,Sindh,2022,1,0.99770266
+Naushahro Feroze,Sindh,2022,1,0.99712914
+Khairpur,Sindh,2022,1,0.99705064
+Ghotki,Sindh,2022,1,0.99828315
+Badin,Sindh,2022,1,0.994381
+Tharparkar,Sindh,2022,1,0.9735631
+Umerkot,Sindh,2022,1,0.9883416
+Matiari,Sindh,2022,1,0.99667895
+Jamshoro,Sindh,2022,1,0.9966905
+Sujawal,Sindh,2022,1,0.9944161
+Tando Allahyar,Sindh,2022,1,0.99399513
+Tando Muhammad Khan,Sindh,2022,1,0.9926603
+Qambar Shahdadkot,Sindh,2022,1,0.99726725
+Peshawar,KPK,2022,0,0.5740901
+Swat,KPK,2022,1,0.9828993
+Nowshera,KPK,2022,1,0.9396383
+Charsadda,KPK,2022,1,0.92042166
+Dir Upper,KPK,2022,1,0.9808389
+Dir Lower,KPK,2022,1,0.98518735
+Chitral,KPK,2022,1,0.9380818
+Kohistan,KPK,2022,1,0.97854745
+Tank,KPK,2022,1,0.9585768
+Dera Ismail Khan,KPK,2022,1,0.9514125
+Mardan,KPK,2022,0,0.55311
+Abbottabad,KPK,2022,0,0.0054354975
+Haripur,KPK,2022,0,0.0056185634
+Mansehra,KPK,2022,1,0.9732528
+Battagram,KPK,2022,1,0.9756481
+Shangla,KPK,2022,1,0.97350353
+Buner,KPK,2022,0,0.26845828
+Malakand,KPK,2022,1,0.97885853
+Hangu,KPK,2022,0,0.010453561
+Karak,KPK,2022,0,0.012423756
+Kohat,KPK,2022,0,0.027561795
+Lakki Marwat,KPK,2022,1,0.96025336
+Bannu,KPK,2022,1,0.8199051
+Kurram,KPK,2022,0,0.007501771
+Orakzai,KPK,2022,0,0.0052281893
+Khyber,KPK,2022,0,0.014384067
+Mohmand,KPK,2022,1,0.90829694
+Bajaur,KPK,2022,1,0.9200779
+South Waziristan,KPK,2022,0,0.028561074
+North Waziristan,KPK,2022,0,0.0119757075
+Torghar,KPK,2022,1,0.97740597
+Kolai Pallas,KPK,2022,1,0.9707675
+Swabi,KPK,2022,0,0.41591763
+Tor Ghar,KPK,2022,0,0.028004048
+Khyber Tribal,KPK,2022,0,0.013433683
+Quetta,Balochistan,2022,1,0.9655546
+Naseerabad,Balochistan,2022,1,0.99738306
+Jaffarabad,Balochistan,2022,1,0.99530137
+Lasbela,Balochistan,2022,1,0.99761355
+Kalat,Balochistan,2022,1,0.9887754
+Khuzdar,Balochistan,2022,1,0.98405784
+Turbat,Balochistan,2022,1,0.9857631
+Gwadar,Balochistan,2022,1,0.95184433
+Panjgur,Balochistan,2022,1,0.9792529
+Chagai,Balochistan,2022,0,0.02957717
+Nushki,Balochistan,2022,0,0.036523547
+Kharan,Balochistan,2022,0,0.03134397
+Washuk,Balochistan,2022,0,0.07624947
+Awaran,Balochistan,2022,1,0.9930896
+Kech,Balochistan,2022,1,0.9864814
+Dera Bugti,Balochistan,2022,1,0.994327
+Kohlu,Balochistan,2022,0,0.20325889
+Sibi,Balochistan,2022,1,0.99347234
+Ziarat,Balochistan,2022,0,0.093504205
+Pishin,Balochistan,2022,1,0.9383015
+Qilla Abdullah,Balochistan,2022,0,0.08522227
+Qilla Saifullah,Balochistan,2022,0,0.07249291
+Loralai,Balochistan,2022,1,0.9430186
+Musakhel,Balochistan,2022,1,0.9630694
+Barkhan,Balochistan,2022,1,0.96531296
+Harnai,Balochistan,2022,1,0.975144
+Sherani,Balochistan,2022,0,0.016091833
+Zhob,Balochistan,2022,0,0.026070055
+Jhal Magsi,Balochistan,2022,1,0.9970981
+Khairpur Tamewali,Balochistan,2022,0,0.03786839
+Mastung,Balochistan,2022,1,0.9675058
+Surab,Balochistan,2022,0,0.027631035
+Lehri,Balochistan,2022,1,0.99571997
+Gilgit,GB,2022,1,0.6815073
+Skardu,GB,2022,0,0.08822796
+Hunza,GB,2022,1,0.80980194
+Nagar,GB,2022,0,0.11399862
+Ghanche,GB,2022,0,0.06256201
+Shigar,GB,2022,0,0.0075120884
+Kharmang,GB,2022,0,0.0060409848
+Roundu,GB,2022,1,0.8355622
+Tangir,GB,2022,0,0.51641494
+Darel,GB,2022,0,0.4040439
+Diamer,GB,2022,1,0.9205485
+Astore,GB,2022,1,0.7410042
+Ghizer,GB,2022,0,0.25199807
+Gupis Yasin,GB,2022,0,0.22506943
+Muzaffarabad,AJK,2022,1,0.9578053
+Mirpur,AJK,2022,0,0.11120946
+Bagh,AJK,2022,1,0.9144792
+Rawalakot,AJK,2022,0,0.010484385
+Kotli,AJK,2022,0,0.0901741
+Neelum,AJK,2022,1,0.96688986
+Haveli,AJK,2022,0,0.009222951
+Sudhnoti,AJK,2022,0,0.004908249
+Hattian Bala,AJK,2022,1,0.9603953
+Jhelum Valley,AJK,2022,1,0.9439551
+Islamabad,ICT,2022,0,0.005281006

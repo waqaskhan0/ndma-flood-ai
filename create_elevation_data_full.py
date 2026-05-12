@@ -24,12 +24,44 @@ df = df.drop_duplicates(subset=["district", "province"]).reset_index(drop=True)
 
 # Compute flood_risk_geo
 def compute_risk(row):
-    if row["elevation_m"] < 100 and row["river_proximity"] == 1:
+    elevation = row["elevation_m"]
+    river = row["river_proximity"]
+    province = row["province"]
+    terrain = row["terrain_type"]
+
+    # Sindh: very flat Indus floodplain / coastal areas
+    if province == "Sindh" and elevation < 80 and river == 1:
         return "high"
-    elif row["elevation_m"] < 300 and row["river_proximity"] == 1:
+
+    # South Punjab / Indus belt: river flood risk
+    elif province == "Punjab" and elevation < 180 and river == 1:
+        return "high"
+
+    # Balochistan: hill torrents / flash floods in low-medium areas
+    elif province == "Balochistan" and elevation < 500 and river == 1:
         return "medium"
-    elif row["elevation_m"] < 300:
+
+    # KPK / AJK / GB: flash flood risk in hilly and mountain valleys
+    elif province in ["KPK", "AJK", "GB"] and terrain in ["hills", "mountains"] and river == 1:
         return "medium"
+
+    # Coastal districts: urban/coastal flooding
+    elif terrain == "coastal" and elevation < 50:
+        return "high"
+
+    # General Pakistan rule: low elevation near river
+    elif elevation < 150 and river == 1:
+        return "high"
+
+    # General Pakistan rule: medium elevation near river
+    elif elevation < 400 and river == 1:
+        return "medium"
+
+    # Flat lowland areas even if not directly near river
+    elif elevation < 250 and terrain in ["plains", "coastal"]:
+        return "medium"
+
+    # Otherwise lower flood susceptibility
     else:
         return "low"
 
